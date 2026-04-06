@@ -56,7 +56,7 @@ Para el entregable grupal (40%):
 | **Marco de evaluación** | Diseño evaluativo independiente del proveedor | |
 | **Cronograma** | Hitos desde estructuración hasta cierre | |
 
-Ver la [plantilla completa con instrucciones detalladas](../../03_contents/unidad-03-estructuracion/plantilla_termsheet.qmd) en los contenidos del curso.
+La plantilla completa con instrucciones detalladas para las 12 secciones está disponible en el repositorio del curso (`03_contents/unidad-03-estructuracion/plantilla_termsheet.qmd`).
 
 ## Política de uso de IA
 
