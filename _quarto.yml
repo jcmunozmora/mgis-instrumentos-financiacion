@@ -20,6 +20,8 @@ website:
         text: Inicio
       - href: syllabus.qmd
         text: Syllabus
+      - href: sobre.qmd
+        text: Profesor
       - text: Unidades
         menu:
           - href: unidades/unidad-01.qmd
@@ -49,7 +51,7 @@ website:
     center: |
       Escuela de Finanzas, Economía y Gobierno
     right: |
-      [jcmunoz@eafit.edu.co](mailto:jcmunoz@eafit.edu.co)
+      [jmunozm1@eafit.edu.co](mailto:jmunozm1@eafit.edu.co)
 
   sidebar: false
 

@@ -16,8 +16,8 @@ subtitle: "Nuevos Instrumentos de Financiación del Sector Social"
 | **Intensidad horaria** | 4 horas/sesión · 6 sesiones · 24 horas totales |
 | **Característica** | No suficientable |
 | **Prerrequisito** | Ninguno (recomendado: Evaluación de Impacto, Semestre II) |
-| **Profesor** | Juan Carlos Muñoz Mora |
-| **Correo** | [jcmunoz@eafit.edu.co](mailto:jcmunoz@eafit.edu.co) |
+| **Profesor** | [Juan Carlos Muñoz-Mora](sobre.qmd) |
+| **Correo** | [jmunozm1@eafit.edu.co](mailto:jmunozm1@eafit.edu.co) |
 
 ---
 

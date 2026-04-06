@@ -1,0 +1,65 @@
+---
+title: "Profesor"
+subtitle: "Juan Carlos Muñoz-Mora, PhD"
+toc: false
+---
+
+## Juan Carlos Muñoz-Mora, PhD
+
+::: {.columns}
+
+::: {.column width="100%"}
+
+Economista del desarrollo especializado en evaluación de impacto, economía rural y ciencia de datos aplicada. Profesor de la **Escuela de Finanzas, Economía y Gobierno** de la Universidad EAFIT e Investigador Asociado del [Institute of Development Studies](https://www.ids.ac.uk/) (Sussex, UK).
+
+Su trabajo se sitúa en la intersección entre la economía del desarrollo, la evaluación rigurosa de políticas públicas y el financiamiento de impacto. Ha colaborado con gobiernos locales, organismos internacionales y organizaciones del sector social en el diseño y evaluación de intervenciones en educación, salud, desarrollo territorial y gestión fiscal en Colombia y África subsahariana.
+
+Su enfoque combina métodos cuantitativos rigurosos con análisis cualitativos y herramientas de monitoreo, evaluación y aprendizaje (MEL), con una convicción de fondo: el desarrollo debe ser inclusivo y equitativo, y la evidencia es el mejor argumento para movilizar recursos hacia lo que funciona.
+
+:::
+
+:::
+
+---
+
+## Áreas de investigación y docencia
+
+- Evaluación de impacto y econometría aplicada
+- Economía rural y desarrollo territorial
+- Financiamiento de impacto: SIBs, blended finance, RBF
+- Retorno social de la inversión (SROI) y medición de valor social
+- Monitoreo, evaluación y aprendizaje (MEL)
+- Ciencia de datos para economía aplicada
+- Gestión fiscal y descentralización
+
+---
+
+## Conexión con este curso
+
+*Nuevos Instrumentos de Financiación del Sector Social* integra dos de las líneas centrales del trabajo del profesor: la **evaluación del impacto social** — qué funciona y cómo medirlo con rigor — y los **mecanismos de financiamiento de impacto** — cómo traducir esa evidencia en estructuras financieras que movilicen capital privado y público hacia soluciones sociales.
+
+Los Bonos de Impacto Social, el blended finance y el SROI no son temas de aula: son instrumentos que el profesor ha analizado, implementado y evaluado en proyectos reales con organizaciones sociales y gobiernos en Colombia. El curso cierra el ciclo del MGIS: medir el valor → comunicarlo → financiarlo.
+
+---
+
+## Proyectos activos
+
+| Proyecto | Contexto | Período |
+|---|---|---|
+| Estructura del hogar y bienestar | Burundi | 2024–2026 |
+| Adopción digital en cadenas agrícolas | Colombia | 2024–2025 |
+| Análisis SROI de programas sociales | Antioquia | 2025–2026 |
+| Capacidad fiscal municipal | Colombia | En curso |
+
+---
+
+## Contacto
+
+::: {.callout-note}
+## Información de contacto
+**Correo:** [jmunozm1@eafit.edu.co](mailto:jmunozm1@eafit.edu.co)
+**Sitio web:** [www.jcmunozmora.co](https://www.jcmunozmora.co)
+**Horario de atención:** [Reservar cita](https://outlook.office365.com/owa/calendar/HorarioOficinaJC@eafit.edu.co/bookings/)
+
+Para temas del curso — dudas sobre actividades, fechas, calificaciones — usa **EAFIT Interactiva**. Para temas de investigación o colaboración, escribe al correo o agenda una cita en línea.
+:::
