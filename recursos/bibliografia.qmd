@@ -1,0 +1,79 @@
+---
+title: "Bibliografía"
+subtitle: "Referencias organizadas por unidad — con datos de acceso y relevancia"
+---
+
+> Las referencias marcadas con **[OA]** son de acceso abierto y descarga libre. Las marcadas con **[BIB]** están disponibles a través de la biblioteca EAFIT. Todas las lecturas del repositorio del curso están en `02_literature/pdfs/`.
+
+---
+
+## Bibliografía básica del curso
+
+### Unidad 1 — Ecosistema del financiamiento de impacto
+
+| Referencia | Tipo | Acceso | Relevancia |
+|---|---|---|---|
+| Bugg-Levine, A. & Emerson, J. (2011). *Impact Investing: Transforming How We Make Money While Making a Difference* (Caps. 1-2). Jossey-Bass | Libro | [BIB] Biblioteca EAFIT | Texto fundacional — introduce los 3 criterios de la inversión de impacto y el espectro riesgo-retorno |
+| ANDE & LAVCA (2023). *Impact Investing in Latin America: Trends 2020-2021* | Reporte | [OA] Repositorio del curso | USD 3.4B AUM en LAC; Colombia #2 en la región; 78% sin gestión de riesgo climático |
+| Freireich, J. & Fulton, K. (2009). *Investing for Social and Environmental Impact*. Monitor Institute | Reporte | [OA] Repositorio del curso | Acuñó el término "impact investing"; estimó mercado de USD 500B para 2020 |
+| GIIN (2024). *Annual Impact Investor Survey 2024* | Reporte | [OA] [thegiin.org](https://thegiin.org) | USD 1.571B en AUM; mapa global del campo |
+| Schlütter, M., Schätzlein, T., Hahn, T. & Waldner, F. (2024). Missing the impact in impact investing research. *Business Strategy and the Environment* | Artículo | [BIB] | Revisión de 104 artículos: la literatura mide prácticas de medición, no si el impacto ocurre realmente |
+
+### Unidad 2 — Instrumentos de financiamiento social
+
+| Referencia | Tipo | Acceso | Datos clave |
+|---|---|---|---|
+| Gustafsson-Wright, E., Gardiner, S. & Putcha, V. (2015). *The Potential and Limitations of Impact Bonds*. Brookings | Reporte | [OA] [brookings.edu](https://www.brookings.edu) | 38 SIBs analizados; < 5% motivados por retorno; 87% citan apoyo gubernamental; tabla de 10 afirmaciones (p. 47) |
+| Hevenstone, D., Fraser, A., Hobi, L. & Geuke, G. (2023). The abandonment of impact evaluation in SIB practice. *Evaluation*, 29(1), 88-109 | Artículo | [BIB] Sage / DOI: [10.1177/13563890221134285](https://doi.org/10.1177/13563890221134285) | 5 de 5 SIBs europeos abandonaron evaluación de impacto causal — 3 mecanismos explicativos |
+| ICMA (2023). *Social Bond Principles* | Estándar | [OA] [icmagroup.org](https://www.icmagroup.org) | Marco voluntario para bonos sociales; el pago NO está condicionado al impacto |
+| Flammer, C. (2021). Corporate green bonds. *Journal of Financial Economics*, 142(2), 499-516 | Artículo | [BIB] DOI: [10.1016/j.jfineco.2021.01.010](https://doi.org/10.1016/j.jfineco.2021.01.010) | Evidencia causal de señalización positiva de green bonds; CAR positivos y mejora ESG post-emisión |
+| Lam, P. & Wurgler, J. (2024). *Green Bonds: New Label, Same Projects?* NBER WP 32960 | Working paper | [OA] [nber.org](https://nber.org) | Solo 2% de proceeds financia proyectos genuinamente nuevos; inversores no discriminan por additionality |
+
+### Unidad 3 — Estructuración e implementación
+
+| Referencia | Tipo | Acceso | Datos clave |
+|---|---|---|---|
+| Gustafsson-Wright, E., Boggild-Jones, I., Segell, D. & Durland, J. (2017). *Impact Bonds in Developing Countries: Early Learnings from the Field*. Brookings & Convergence | Reporte | [OA] [brookings.edu](https://www.brookings.edu) | Único SIB en LMIC al 2017: Colombia. Retorno máximo 8%. Resultado: 117% meta. Capital promedio en LMICs: USD 2M |
+| Attridge, S. & Engen, L. (2019). *Blended Finance in the Poorest Countries*. ODI | Reporte | [OA] [odi.org](https://odi.org) | USD 0.75 de capital privado por USD 1 público; ratio 1:47 en BF recibido por personas pobres (MICs vs. LICs) |
+
+---
+
+## Bibliografía complementaria
+
+### Perspectiva crítica y gobernanza
+
+| Referencia | Nota |
+|---|---|
+| Guter-Sandu, A. (2021). Governing through Social Impact Bonds. *New Political Economy*, 26(6), 1064-1077. [BIB] | Reconceptualiza los SIBs como experimentos de gobernanza; introduce la "paradoja del éxito" de Peterborough |
+| Porter, M. & Kramer, M. (2011). Creating Shared Value. *Harvard Business Review*, 89(1-2), 62-77 | Marco de Valor Compartido — contexto ideológico del campo |
+
+### Blended finance y ESG
+
+| Referencia | Nota |
+|---|---|
+| Flammer, C. (2025). The economics of blended finance. [OA — verificar publicación] | Marco conceptual sobre condiciones de eficiencia del BF y el problema de la adicionalidad |
+| Volz, U., Lo, Y.C. & Mishra, S. (2024). *Scaling Up Green Investment in the Global South*. SOAS. [OA] | "Billions to trillions se convirtió en millions in, billions out" — el argumento más radical del curso |
+| OCDE (2021). *Social Impact Bonds: State of the Field*. OECD Publishing. [BIB] | Marco conceptual y regulatorio comparado |
+
+### América Latina y Colombia
+
+| Referencia | Nota |
+|---|---|
+| BID Lab (2021). *Bonos de Impacto Social y al Desarrollo en América Latina y el Caribe: Estado del Campo 2021* | Panorama regional de SIBs/DIBs con casos documentados |
+| CEPAL (2023). *Bonos verdes, sociales, sostenibles y vinculados a la sostenibilidad en América Latina y el Caribe*. [OA — cepal.org] | Datos de emisiones de bonos ESG en la región |
+| Instiglio (2021). *SIB Empleando Futuro — Colombia: Impact Report*. [instiglio.org] | Documentación del único SIB contratado en Colombia al 2021 |
+| Ministerio de Hacienda Colombia (2017). *Marco regulatorio para Bonos de Impacto Social en Colombia (Decreto 092/2017)* | Marco legal vigente |
+
+---
+
+## Bases de datos y repositorios
+
+| Recurso | URL | Uso principal |
+|---|---|---|
+| GoLab Oxford — Impact Bonds Dataset | [golab.bsg.ox.ac.uk](https://golab.bsg.ox.ac.uk) | Base de datos de **todos** los impact bonds contratados en el mundo — el punto de partida para cualquier análisis |
+| GIIN Investor Directory | [thegiin.org](https://thegiin.org) | Mapa global de inversores de impacto con datos por sector/geografía |
+| GIIN IRIS+ | [iris.thegiin.org](https://iris.thegiin.org) | Métricas estandarizadas de impacto para term sheets |
+| Convergence Deal Database | [convergence.finance](https://convergence.finance) | Base de datos de transacciones de blended finance |
+| Brookings Impact Bonds | [brookings.edu/impact-bonds](https://www.brookings.edu/project/impact-bonds-database/) | Casos documentados de SIBs/DIBs con análisis de Brookings |
+| CEPAL CEPALSTAT | [cepalstat.cepal.org](https://cepalstat.cepal.org) | Datos socioeconómicos LAC para líneas base |
+| DANE Colombia | [dane.gov.co](https://www.dane.gov.co) | Microdatos y estadísticas para contexto colombiano |

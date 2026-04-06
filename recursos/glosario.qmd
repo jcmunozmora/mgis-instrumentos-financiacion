@@ -1,0 +1,80 @@
+---
+title: "Glosario"
+subtitle: "Términos clave del curso"
+---
+
+Este glosario recoge los términos esenciales del ecosistema de financiamiento de impacto, organizados alfabéticamente. Los términos marcados con ★ son especialmente relevantes para los entregables del curso.
+
+---
+
+**Adicionalidad**
+: Principio que exige que el capital movilizado (privado, climático, etc.) no habría fluido hacia ese destino de no haber existido la intervención del instrumento. Es el criterio más difícil de demostrar y más frecuentemente ignorado. Sin adicionalidad real, el blended finance y los bonos verdes son subsidio disfrazado de inversión. Ver: Attridge & Engen (2019); Lam & Wurgler (2024).
+
+**Blended Finance (Finanzas Mixtas)** ★
+: Uso estratégico de capital de desarrollo concesional (donaciones, garantías, deuda subordinada) para movilizar capital privado adicional hacia proyectos de desarrollo sostenible. El capital concesional actúa como catalizador o "primera pérdida".
+
+**Bono de Impacto al Desarrollo (DIB — Development Impact Bond)** ★
+: Variante del SIB donde el pagador de resultados es un donante externo (ej. agencia de cooperación internacional) en lugar del gobierno local. Común en contextos de bajo ingreso donde el gobierno no tiene capacidad de pago.
+
+**Bono de Impacto Social (SIB — Social Impact Bond)** ★
+: Instrumento de financiamiento basado en resultados donde inversores privados financian la implementación de un programa social, y el gobierno u otro pagador devuelve el capital más un retorno si se alcanzan resultados predefinidos. Si los resultados no se alcanzan, los inversores pierden su inversión.
+
+**Bono Social**
+: Instrumento de deuda (bono) cuyos fondos se destinan exclusivamente a financiar proyectos con beneficios sociales directos, siguiendo los Social Bond Principles de la ICMA. A diferencia de un SIB, el pago no está condicionado a resultados de impacto.
+
+**Bono Verde**
+: Instrumento de deuda cuyos fondos financian proyectos con beneficios ambientales verificables, siguiendo los Green Bond Principles de la ICMA.
+
+**Capital Paciente (Patient Capital)**
+: Capital de inversión dispuesto a aceptar menores retornos y horizontes de inversión más largos en exchange por impacto social o ambiental medible.
+
+**ESG (Environmental, Social and Governance)**
+: Marco de criterios no financieros usados para evaluar el desempeño y riesgo de una empresa u organización: criterios ambientales, sociales y de gobernanza. Crecientemente usado por inversores para integrar factores de sostenibilidad en sus decisiones.
+
+**Espectro riesgo-retorno-impacto**
+: Continuum que va desde la filantropía pura (máximo impacto, cero retorno financiero) hasta la inversión de mercado (retorno de mercado, impacto variable), pasando por la inversión de impacto concesional y de mercado.
+
+**Financiamiento Basado en Resultados (RBF — Results-Based Financing)**
+: Enfoque donde el financiamiento se desembolsa total o parcialmente en función del logro de resultados verificados, en lugar de solo por insumos o actividades. Los SIBs son una forma de RBF.
+
+**GIIN (Global Impact Investing Network)**
+: Red global de organizaciones comprometidas con la inversión de impacto. Creadores de los estándares IRIS+ para métricas de impacto y de investigación anual sobre el estado del mercado.
+
+**ICMA (International Capital Market Association)**
+: Asociación que establece los Principios para Bonos Verdes, Sociales, Sostenibles y Vinculados a la Sostenibilidad — los estándares voluntarios más utilizados en el mercado de bonos ESG.
+
+**IMoIC (Impact Multiple of Invested Capital)**
+: Métrica que expresa cuántos dólares de valor social se generan por cada dólar invertido. Análogo al MOIC (Multiple on Invested Capital) financiero, pero aplicado al impacto social. Permite comunicar el SROI en lenguaje inversor.
+
+**IRIS+ (Impact Reporting and Investment Standards)**
+: Sistema de métricas estandarizadas de impacto desarrollado por el GIIN. Permite comparar y agregar datos de impacto entre organizaciones e inversores.
+
+**Inversión de Impacto (Impact Investing)**
+: Inversiones realizadas con la intención de generar un impacto social y/o ambiental positivo y medible, junto con un retorno financiero. Requiere intencionalidad, adicionalidad y medición de impacto.
+
+**Pagador (Outcome Payer)**
+: En un SIB o instrumento RBF, es el actor que realiza el pago cuando se alcanzan los resultados acordados. Generalmente el gobierno, una fundación o un organismo multilateral.
+
+**Pay-for-Success**
+: Término utilizado principalmente en Estados Unidos para referirse a modelos donde el gobierno paga a proveedores de servicios sociales en función de los resultados obtenidos, no de los servicios prestados.
+
+**SROI (Social Return on Investment)**
+: Metodología para medir y comunicar el valor social generado por una intervención, expresado como una ratio (ej. "por cada $1 invertido se generan $3.74 de valor social"). Desarrollado por Social Value International.
+
+**Term Sheet de Impacto**
+: Documento que resume los términos principales de un instrumento de financiación de impacto: actores, resultados esperados, métricas, estructura de pago, mecanismo de verificación y gestión de riesgos. Equivalente al term sheet de una transacción financiera.
+
+**Validador Independiente** ★
+: Organización o experto que verifica de forma independiente el logro de los resultados en un instrumento basado en resultados. Rol crítico para la credibilidad del instrumento. Debe ser completamente independiente de todos los actores del contrato — incluyendo el proveedor, el inversor y el pagador. En Colombia, los candidatos naturales son universidades con unidades de medición (CEDE/U. Andes, CIEF/EAFIT, U. Nacional) y consultoras especializadas (Econometría Consultores, Fedesarrollo). Ver: Hevenstone et al. (2023) para los riesgos de captura del validador.
+
+**GoLab Oxford (Government Outcomes Lab)**
+: Centro de investigación de la Universidad de Oxford que mantiene la base de datos más completa de impact bonds contratados en el mundo. URL: [golab.bsg.ox.ac.uk](https://golab.bsg.ox.ac.uk). Recurso de referencia para cualquier análisis de SIBs/DIBs.
+
+**Greenwashing (Lavado verde)**
+: Práctica de presentar instrumentos, productos o inversiones como ambientalmente responsables sin que ello se traduzca en impacto ambiental adicional real. En el contexto del curso: el debate sobre si los bonos verdes producen adicionalidad real o solo señalización de mercado. Ver: Lam & Wurgler (2024) — el 98% de proceeds no financia proyectos genuinamente nuevos.
+
+**Paradoja del éxito (en SIBs)**
+: Situación donde el éxito de programas públicos relacionados hace innecesario el SIB y lleva a su cierre anticipado, eliminando la posibilidad de evaluación de impacto. Documentado en el caso Peterborough Prison SIB (UK): cerrado cuando el programa nacional *Transforming Rehabilitation* tuvo éxito. Ver: Guter-Sandu (2021).
+
+**Contrato de Impacto Social (Colombia)**
+: Nombre legal que reciben los SIBs en Colombia, regulados por el Decreto 092 de 2017 del Ministerio de Hacienda. Marco que habilita al gobierno colombiano a firmar contratos donde el pago está condicionado a resultados verificados por un tercero independiente.

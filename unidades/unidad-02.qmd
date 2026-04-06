@@ -1,0 +1,138 @@
+---
+title: "Unidad 2 — Instrumentos de Financiamiento Social"
+subtitle: "8 horas · Sesiones 3 y 4"
+---
+
+## Pregunta guía
+
+> ¿Qué instrumentos existen para financiar el impacto social, cómo funcionan estructuralmente, y cuándo es apropiado usar cada uno?
+
+## Objetivos de aprendizaje
+
+Al finalizar esta unidad, el estudiante será capaz de:
+
+1. Describir la estructura técnica de un Bono de Impacto Social (SIB) y un Bono de Impacto al Desarrollo (DIB) *(Comprender)*
+2. Comparar los modelos SIB, RBF y bonos sociales según su mecanismo de pago, distribución de riesgo y actores *(Analizar)*
+3. Aplicar el checklist de 10 criterios de elegibilidad para determinar si un programa social es candidato a financiamiento basado en resultados *(Aplicar)*
+4. Evaluar la pertinencia de instrumentos ESG para proyectos sociales en contextos de mercados emergentes *(Evaluar)*
+
+## Datos que cuestionan el discurso estándar
+
+::: {.callout-important}
+**Antes de entrar a los instrumentos, estos datos del campo:**
+
+- **< 5%** de inversores en SIBs indica el retorno financiero como motivación primaria — la mayoría entra por innovación o misión (Gustafsson-Wright et al., 2015, p. 41)
+- **87%** de actores en SIBs señala el apoyo gubernamental como "muy importante" — aunque el discurso oficial los presenta como instrumentos para *reducir* el riesgo del gobierno (ibíd., p. 43)
+- **5 de 5** SIBs europeos estudiados abandonaron la evaluación de impacto causal — produjeron monitoreo de gestión, no evidencia de que el programa funcionó (Hevenstone et al., 2023)
+- **98%** de los proceeds de green bonds no financia proyectos con características genuinamente nuevas — el resto refinancia deuda ordinaria o expande proyectos ya existentes (Lam & Wurgler, 2024)
+:::
+
+## Pre-trabajo (antes de la sesión 3)
+
+**Lecturas obligatorias:**
+
+- Gustafsson-Wright, Gardiner & Putcha (2015). *The Potential and Limitations of Impact Bonds*. Brookings — Secciones 1-3 + Tabla de 10 afirmaciones (p. 47). Tiempo estimado: 50 min
+- Hevenstone, Fraser, Hobi & Geuke (2023). *The Abandonment of Impact Evaluation in Social Impact Bond Practice*. *Evaluation*, 29(1). Leer: intro + conclusiones + tabla de 5 casos. Tiempo estimado: 30 min
+- ICMA (2023). *Social Bond Principles*. Solo el documento de principios (no apéndices). Tiempo estimado: 20 min
+
+**Tarea preparatoria — Ficha del SIB Empleando Futuro:**
+
+Antes de la Sesión 3, prepara una ficha de 1 página sobre el **SIB Empleando Futuro (Cali, Colombia, 2017)**:
+
+1. Problema social abordado y población objetivo exacta
+2. Los 5 actores y sus roles específicos (proveedor, inversor, pagador, intermediario, validador)
+3. La métrica de resultado exacta y el umbral de pago
+4. ¿Se alcanzó la meta? ¿Cuánto se pagó? (dato: **117% de la meta**)
+5. ¿Por qué Colombia fue pionera? ¿Qué condiciones habilitantes existían?
+6. Una pregunta que el caso no responde
+
+*Fuentes:* GoLab Oxford ([golab.bsg.ox.ac.uk](https://golab.bsg.ox.ac.uk)), Instiglio ([instiglio.org](https://www.instiglio.org)), Brookings.
+
+## Agenda de sesiones
+
+### Sesión 3 (4 horas): SIBs, DIBs y RBF
+
+| Tiempo | Actividad |
+|---|---|
+| 0:00–0:15 | Revisión ficha preparatoria SIB Empleando Futuro — diagrama en plenaria |
+| 0:15–0:55 | Mini-clase: Anatomía de un SIB — 5 actores, flujo de dinero, flujo de riesgo |
+| 0:55–1:35 | Actividad: Disección del SIB Empleando Futuro — ¿quién asume cada riesgo? |
+| 1:35–1:45 | Descanso |
+| 1:45–2:15 | DIBs: cuando el pagador es un donor externo — diferencias con SIB |
+| 2:15–2:50 | RBF y Pay-for-Success: el modelo desde el gobierno/donante |
+| 2:50–3:00 | Síntesis: tabla comparativa SIB vs. DIB vs. RBF vs. Bono Social |
+
+### Sesión 4 (4 horas): ESG, bonos sociales y elegibilidad
+
+| Tiempo | Actividad |
+|---|---|
+| 0:00–0:20 | Mini-clase: Taxonomía ICMA — bonos verdes, sociales y sostenibles |
+| 0:20–0:45 | La diferencia crítica: en un bono social ICMA el pago **no** está condicionado al impacto |
+| 0:45–1:30 | El debate greenwashing: Flammer (2021) vs. Lam & Wurgler (2024) |
+| 1:30–1:40 | Descanso |
+| 1:40–2:30 | **Taller:** Aplicación del checklist de elegibilidad al caso del equipo |
+| 2:30–2:50 | Plenaria: veredictos de elegibilidad + brechas comunes |
+| 2:50–3:00 | Introducción al análisis individual evaluable + instrucciones |
+
+## El checklist de elegibilidad (10 criterios)
+
+Para determinar si un programa social es candidato a financiamiento basado en resultados:
+
+| # | Criterio | Descripción | Alerta |
+|---|----------|-------------|--------|
+| 1 | Problema definido | El problema está delimitado y cuantificado con datos | |
+| 2 | Población objetivo | La población beneficiaria está identificada y es contactable | |
+| 3 | Resultados medibles | Los resultados son observables y verificables por terceros | |
+| 4 | **Línea base disponible** | Existen datos históricos para establecer línea base | ⚠️ Dealbreaker más frecuente en Colombia |
+| 5 | Intervención probada | Hay evidencia de que la intervención funciona | |
+| 6 | Pagador comprometido | Existe un pagador potencial dispuesto a pagar por resultados | |
+| 7 | Horizonte temporal | Los resultados se materializan en 2-5 años | |
+| 8 | **Escala mínima** | El programa tiene escala suficiente para justificar costos | ⚠️ Con < USD 300K los costos de transacción son prohibitivos |
+| 9 | Marco legal | El instrumento es legal en la jurisdicción relevante | |
+| 10 | Capacidad de implementación | El proveedor tiene capacidad operativa demostrada | |
+
+*Criterio de instrumento:*
+
+> Si hay pagador gubernamental + capacidad de medición → **SIB**
+> Si el pagador es un donor externo → **DIB**
+> Si el pagador tiene presupuesto propio, sin intermediario financiero → **RBF**
+> Si es emisor del mercado de capitales con flujos definidos → **Bono Social/Verde**
+
+## Actividad evaluable: Análisis de elegibilidad (30%)
+
+**Instrucciones:**
+
+Selecciona un programa social real en Colombia o América Latina — puede ser de tu organización, de una entidad pública, o un caso documentado. Aplica el checklist de 10 criterios y presenta:
+
+1. Descripción del programa (problema, población, intervención) — con datos
+2. Aplicación del checklist criterio por criterio — con evidencia específica
+3. Veredicto de elegibilidad y justificación
+4. Instrumento recomendado y razón
+5. Brechas a resolver y hoja de ruta
+
+**Formato:** 4-6 páginas · Individual · Entrega: 48h después de la última sesión de esta unidad
+
+| Criterio | Peso |
+|----------|------|
+| Rigor en la aplicación del checklist (evidencia por criterio) | 40% |
+| Calidad del veredicto — consistente con la evidencia | 25% |
+| Pertinencia del instrumento recomendado | 20% |
+| Identificación de brechas y hoja de ruta realista | 15% |
+
+## Lecturas
+
+### Obligatorias
+
+| Texto | Acceso |
+|-------|--------|
+| Gustafsson-Wright, E., Gardiner, S. & Putcha, V. (2015). *The Potential and Limitations of Impact Bonds*. Brookings | [brookings.edu](https://www.brookings.edu) — libre |
+| Hevenstone, D., Fraser, A., Hobi, L. & Geuke, G. (2023). The abandonment of impact evaluation in SIB practice. *Evaluation*, 29(1) | Biblioteca EAFIT / Sage |
+| ICMA (2023). *Social Bond Principles* | [icmagroup.org](https://www.icmagroup.org) — libre |
+
+### Complementarias
+
+| Texto | Nota |
+|-------|------|
+| Guter-Sandu, A. (2021). Governing through Social Impact Bonds. *New Political Economy*, 26(6) | Para quienes quieren la perspectiva de economía política |
+| Flammer, C. (2021). Corporate green bonds. *Journal of Financial Economics*, 142(2) | Evidencia causal sobre señalización de green bonds |
+| Lam, P. & Wurgler, J. (2024). Green Bonds: New Label, Same Projects? NBER WP 32960 | Contraargumento sobre additionality — [nber.org](https://nber.org) libre |

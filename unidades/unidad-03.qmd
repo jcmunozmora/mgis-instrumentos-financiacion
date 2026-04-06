@@ -1,0 +1,170 @@
+---
+title: "Unidad 3 — Estructuración e Implementación"
+subtitle: "8 horas · Sesiones 5 y 6"
+---
+
+## Pregunta guía
+
+> ¿Cómo se estructura técnicamente un instrumento de financiación de impacto, se negocia con los actores relevantes, y se comunica de manera persuasiva a inversores?
+
+## Objetivos de aprendizaje
+
+Al finalizar esta unidad, el estudiante será capaz de:
+
+1. Diseñar un term sheet básico de impacto con sus componentes mínimos *(Crear)*
+2. Convertir un análisis SROI en lenguaje comprensible para inversores de impacto *(Aplicar)*
+3. Identificar los principales riesgos y cuellos de botella en la implementación de SIBs en Colombia *(Analizar)*
+4. Presentar una propuesta de inversión de impacto ante un comité inversor simulado *(Crear + Comunicar)*
+
+## El contexto colombiano en perspectiva global
+
+::: {.callout-note}
+**Datos del SIB Empleando Futuro (Cali, 2017) — el caso ancla de la unidad:**
+
+- Al 1 de agosto de 2017: **90 SIBs** contratados en el mundo. **89 en países de alto ingreso. 1 en Colombia.**
+- Tipo de inversor: **Fundación Corona** (filantrópico) — no capital privado convencional
+- Retorno máximo ofrecido: **8% anual** — uno de los más bajos registrados globalmente
+- Resultado alcanzado: **117% de la meta**
+- Intermediario: **Instiglio**
+- Duración: < 2 años — uno de los más cortos en la base global de GoLab Oxford
+
+**Y sobre el blended finance:**
+
+- Cada USD 1 de BMDs/BDFs moviliza en promedio solo **USD 0.75** de capital privado — muy por debajo del "5 a 1" que se cita habitualmente (Attridge & Engen, 2019)
+- Una persona pobre en un país de ingresos medios recibe **47 veces más** blended finance que una en un país de bajos ingresos — aunque la ODA convencional tiene una razón de solo 2.4 a 1
+:::
+
+## Pre-trabajo (antes de la sesión 5)
+
+**Lecturas obligatorias:**
+
+- Gustafsson-Wright, Boggild-Jones, Segell & Durland (2017). *Impact Bonds in Developing Countries: Early Learnings from the Field*. Brookings & Convergence — Intro + casos + lecciones. Tiempo estimado: 35 min
+- Attridge, S. & Engen, L. (2019). *Blended Finance in the Poorest Countries*. ODI — Resumen ejecutivo + adicionalidad + distribución geográfica. Tiempo estimado: 30 min
+- Hevenstone et al. (2023) — **releer** solo conclusiones y secciones de mecanismos con nuevo foco: ¿cómo diseñar para que el abandono evaluativo no ocurra? Tiempo estimado: 15 min
+
+**Tarea preparatoria — Ficha del caso final:**
+
+Antes de la Sesión 5, el equipo prepara una ficha de 1 página:
+
+1. Nombre del programa social seleccionado
+2. Problema social que aborda (con datos verificables)
+3. Organización implementadora y su historial
+4. Posible pagador (¿quién paga si los resultados se alcanzan?)
+5. Resultado clave que medirías — ¿es verificable? ¿hay línea base?
+6. Instrumento propuesto (SIB / DIB / RBF / Bono Social / Blended Finance) — justifica la elección
+7. Una duda técnica sobre la estructuración
+
+## Agenda de sesiones
+
+### Sesión 5 (4 horas): Estructuración técnica
+
+| Tiempo | Actividad |
+|---|---|
+| 0:00–0:15 | **Activar:** El inversor exigente — 4 preguntas que siempre hace el jurado |
+| 0:15–0:55 | Mini-clase: Anatomía del term sheet — los 7 componentes mínimos y su lógica |
+| 0:55–1:35 | Taller: completar el template de term sheet con caso de calibración (Apartadó, Colombia) |
+| 1:35–1:45 | Descanso |
+| 1:45–2:20 | SROI → IMoIC: ejercicio numérico en clase |
+| 2:20–2:50 | Riesgos y fracasos: ¿por qué fallan los SIBs? Taxonomía y casos |
+| 2:50–3:00 | Trabajo en equipo: iniciar term sheet del caso final |
+
+### Sesión 6 (4 horas): Pitch y cierre del curso
+
+| Tiempo | Actividad |
+|---|---|
+| 0:00–0:30 | Laboratorio de pitch: estructura, narrativa, "ask" |
+| 0:30–1:00 | Práctica en pares con ficha de retroalimentación estructurada |
+| 1:00–1:10 | Descanso |
+| 1:10–2:30 | Pitching ante jurado simulado (15 min por equipo: 8 presentación + 7 preguntas) |
+| 2:30–2:50 | Retroalimentación del jurado + autoevaluación |
+| 2:50–3:00 | Cierre del curso: ¿qué aprendimos? ¿cuál fue el momento más difícil? |
+
+## Las 4 preguntas difíciles del jurado
+
+::: {.callout-warning}
+Prepara respuestas concretas para estas cuatro preguntas — siempre aparecen:
+
+**1. "¿Quién verifica los resultados y cómo sé que es independiente?"**
+→ El validador debe ser independiente de *todos* los actores del contrato. Si el proveedor tiene cualquier influencia sobre el verificador, el contrato está comprometido (Hevenstone et al., 2023).
+
+**2. "¿Qué pasa si no se alcanza la meta? ¿Puedo perder todo mi capital?"**
+→ Sí — ese es el modelo. No lo suavices. Explica cómo reduces la *probabilidad* de que ocurra: intervención con evidencia, proveedor con trayectoria, métricas conservadoras.
+
+**3. "¿Por qué no simplemente hace una donación al programa?"**
+→ Porque el instrumento alinea incentivos hacia resultados verificados, no hacia actividades. Una donación no garantiza que el proveedor rinda cuentas por el resultado final.
+
+**4. "¿Cómo sé que el resultado se debe a su intervención y no a otros factores?"**
+→ Este es el problema de Hevenstone. La respuesta honesta reconoce la dificultad: sin grupo de control no hay certeza causal. Explica qué diseño evaluativo elegiste y por qué.
+:::
+
+## Actividades evaluables
+
+### Term sheet de impacto (40% — grupal)
+
+Estructura técnica completa del instrumento de financiación para el caso real del equipo.
+
+**Entregables:**
+1. Term sheet completo siguiendo la [plantilla del curso](../recursos/herramientas.qmd) — 8-12 páginas
+2. Resumen ejecutivo de 1 página para el comité inversor
+3. Declaración de uso de IA (si aplica) — 2-3 líneas
+
+**Hitos de avance (sin nota, con retroalimentación):**
+
+| Hito | Momento | Entregable |
+|------|---------|-----------|
+| Ficha de caso | Fin Unidad 1 | 1 página: problema, organización, posible pagador |
+| Elegibilidad | Análisis individual (Unidad 2) | Parte del análisis individual de cada miembro |
+| Term sheet completo | 7 días post-sesión 6 | Versión final del equipo |
+
+| Criterio | Peso |
+|----------|------|
+| Claridad del problema e intervención (con datos) | 20% |
+| Solidez de la métrica de resultado (SMART + línea base) | 25% |
+| Estructura de pago realista y coherente | 20% |
+| Gestión del riesgo — identificación + mitigación | 15% |
+| Marco de evaluación independiente | 20% |
+
+### Pitch de inversión (30% — grupal)
+
+Presentación de 8 minutos ante jurado simulado + 7 minutos de preguntas.
+
+**Estructura recomendada:**
+
+| Parte | Duración | Pregunta que responde |
+|-------|----------|-----------------------|
+| El problema | 1 min | ¿Por qué esto importa ahora? |
+| La solución | 1.5 min | ¿Qué intervención funciona y por qué? |
+| El instrumento | 2 min | ¿Cómo está estructurado? ¿Quién paga qué cuándo? |
+| La evidencia | 1.5 min | ¿Por qué confiar en este proveedor? |
+| El ask | 1 min | ¿Qué monto, en qué forma, para qué exactamente? |
+| El equipo | 1 min | ¿Por qué ustedes pueden ejecutar esto? |
+
+| Criterio | Peso |
+|----------|------|
+| Claridad del problema y la solución | 25% |
+| Solidez técnica del instrumento propuesto | 30% |
+| Calidad de la evidencia presentada | 20% |
+| Persuasión y manejo de preguntas difíciles | 25% |
+
+## Recursos de la unidad
+
+- [Plantilla de term sheet](../recursos/herramientas.qmd) — disponible en la página de herramientas
+- [GoLab Oxford](https://golab.bsg.ox.ac.uk) — base de datos de todos los impact bonds contratados
+- [Instiglio](https://www.instiglio.org) — intermediario del SIB Empleando Futuro, casos documentados
+- [Decreto 092/2017](https://www.minhacienda.gov.co) — marco legal de Contratos de Impacto Social en Colombia
+
+## Lecturas
+
+### Obligatorias
+
+| Texto | Acceso |
+|-------|--------|
+| Gustafsson-Wright, E. et al. (2017). *Impact Bonds in Developing Countries*. Brookings & Convergence | [brookings.edu](https://www.brookings.edu) — libre |
+| Attridge, S. & Engen, L. (2019). *Blended Finance in the Poorest Countries*. ODI | [odi.org](https://odi.org) — libre |
+
+### Complementarias
+
+| Texto | Nota |
+|-------|------|
+| Flammer, C. (2025). The economics of blended finance | Marco conceptual sobre adicionalidad del BF |
+| Volz, U., Lo, Y.C. & Mishra, S. (2024). *Scaling Up Green Investment in the Global South*. SOAS | El argumento más radical del curso: el BF no puede escalar sin reformas estructurales |

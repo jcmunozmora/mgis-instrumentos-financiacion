@@ -1,0 +1,117 @@
+---
+title: "Unidad 1 — Ecosistema del Financiamiento de Impacto"
+subtitle: "8 horas · Sesiones 1 y 2"
+---
+
+## Pregunta guía
+
+> ¿Por qué el modelo de subvenciones es insuficiente para financiar el cambio social a escala, y qué alternativas han emergido?
+
+## Objetivos de aprendizaje
+
+Al finalizar esta unidad, el estudiante será capaz de:
+
+1. Explicar las fallas de mercado que justifican la existencia de instrumentos de financiación de impacto *(Comprender)*
+2. Caracterizar los principales actores del ecosistema de inversión de impacto global y colombiano *(Comprender)*
+3. Ubicar cualquier instrumento financiero en el espectro riesgo-retorno-impacto *(Analizar)*
+4. Evaluar críticamente la narrativa de crecimiento del campo a la luz de evidencia reciente *(Evaluar)*
+
+## El campo en cifras
+
+::: {.callout-note}
+**Datos clave del campo (2023-2024):**
+
+- **USD 1.571 billones** en activos bajo gestión en inversión de impacto — GIIN (2024)
+- **37 inversores activos** en Colombia, segundo lugar en LAC después de Brasil (39) — ANDE/LAVCA (2023)
+- **USD 3.4 billones** en AUM en LAC (muestra de 92 inversores) — ANDE/LAVCA (2023)
+- **61%** de inversores busca retornos de mercado — subió desde 46% en el reporte anterior — *¿el campo se está financializando?*
+- **78%** de inversores no tiene procesos para gestionar riesgo climático en sus portafolios — pese a declararlo prioritario
+- **USD 500 billones** fue la estimación de Monitor Institute (2009) para el mercado en 2020. El mercado real en 2024: **USD 1.571 billones**. La promesa se superó —¿cambió lo que era importante cambiar?
+:::
+
+## Pre-trabajo (antes de la primera sesión)
+
+**Lecturas obligatorias:**
+
+- Bugg-Levine & Emerson (2011), Capítulos 1-2 — *Impact Investing*. Tiempo estimado: 45 min
+- ANDE & LAVCA (2023) — *Impact Investing in Latin America: Trends 2020-2021*. Leer: resumen ejecutivo + sección Colombia + metodología. Tiempo estimado: 30 min
+- Freireich & Fulton (2009) — *Investing for Social and Environmental Impact*, Monitor Institute. Leer: solo secciones 1-2. Tiempo estimado: 20 min
+
+**Recurso audiovisual:**
+
+- Dan Pallotta — *The Way We Think About Charity is Dead Wrong*, TED 2013. Duración: 18 min.
+  → Mientras ves: ¿Cuáles son las 5 "reglas" que según Pallotta limitan el sector social?
+
+**Lectura crítica (para quienes quieren profundizar):**
+
+- Schlütter, Schätzlein, Hahn & Waldner (2024) — *Missing the Impact in Impact Investing Research*. Intro + conclusiones: 20 min.
+
+**Preguntas para llegar a clase:**
+
+1. Piensa en una organización social que conoces: ¿de dónde viene su dinero? ¿Qué pasaría si ese dinero se agotara mañana?
+2. ¿Cuál es la diferencia entre un inversor de impacto y un filántropo tradicional según Bugg-Levine & Emerson?
+3. ¿Se cumplió la promesa del Monitor Institute (2009)?
+
+## Agenda de sesiones
+
+### Sesión 1 (4 horas): El mercado y sus fallas
+
+| Tiempo | Actividad |
+|---|---|
+| 0:00–0:20 | **Activar:** Encuesta diagnóstica — ¿de dónde viene el dinero de tu organización? Mapa en vivo |
+| 0:20–0:55 | Mini-clase: Fallas de mercado en el sector social; por qué el capital privado no fluye espontáneamente |
+| 0:55–1:30 | Caso: Dan Pallotta — las 5 "reglas" que limitan el sector. Debate: ¿Tiene razón? ¿Qué diría Hevenstone? |
+| 1:30–1:40 | Descanso |
+| 1:40–2:15 | El espectro riesgo-retorno-impacto: del subsidio puro a la inversión de mercado |
+| 2:15–2:50 | Trabajo en equipos: ubicar 8 instrumentos reales en el espectro |
+| 2:50–3:00 | Cierre: síntesis + pregunta de salida |
+
+### Sesión 2 (4 horas): Actores, ecosistema y evidencia crítica
+
+| Tiempo | Actividad |
+|---|---|
+| 0:00–0:20 | Revisión pre-trabajo: los 3 criterios de la inversión de impacto (intencionalidad, adicionalidad, medición) |
+| 0:20–0:55 | Mini-clase: actores del ecosistema global; GIIN, PRI, Blended Finance Taskforce |
+| 0:55–1:30 | Análisis ANDE/LAVCA 2023: ¿Colombia como segundo mercado — qué significa eso realmente? |
+| 1:30–1:40 | Descanso |
+| 1:40–2:20 | Taller grupal: Mapeo del ecosistema colombiano por sector |
+| 2:20–2:45 | Plenaria: presentación de mapas + discusión |
+| 2:45–3:00 | Cierre: tensión entre las promesas del campo y la evidencia de Schlütter et al. (2024) |
+
+## Actividad de la unidad
+
+**Mapeo del ecosistema de inversión de impacto en Colombia**
+
+En equipos de 3-4 personas, elaboren un mapa del ecosistema de inversión de impacto en un sector de su elección (educación, salud, medio ambiente, vivienda, empleo) en Colombia:
+
+1. ¿Quiénes son los actores principales? (inversores, intermediarios, beneficiarios, reguladores)
+2. ¿Qué instrumentos utilizan actualmente? ¿Dónde se ubican en el espectro?
+3. ¿Cuáles son las principales brechas de financiamiento?
+4. ¿Qué oportunidades identifican para nuevos instrumentos?
+
+*Formato: presentación de 5 minutos + documento de 2 páginas.*
+*Esta actividad alimenta el proyecto final — elegir un sector que les interese para el term sheet.*
+
+## Lecturas
+
+### Obligatorias
+
+| Texto | Páginas | Dónde conseguirlo |
+|-------|---------|-------------------|
+| Bugg-Levine & Emerson (2011). *Impact Investing*, Caps. 1-2 | pp. 1-45 | Biblioteca EAFIT |
+| ANDE & LAVCA (2023). *Impact Investing in Latin America* | Resumen + Colombia + metodología | Repositorio del curso |
+| Freireich & Fulton (2009). *Investing for Social and Environmental Impact*. Monitor Institute | Secciones 1-2 | [Repositorio del curso — Open Access] |
+| GIIN (2024). *Annual Impact Investor Survey* | Resumen ejecutivo | [thegiin.org](https://thegiin.org) — libre |
+
+### Complementarias
+
+- Schlütter, M., Schätzlein, T., Hahn, T. & Waldner, F. (2024). Missing the impact in impact investing research. *Business Strategy and the Environment*.
+- O'Donohoe, N. et al. (2010). *Impact Investments: An Emerging Asset Class*. J.P. Morgan.
+- Porter, M. & Kramer, M. (2011). Creating Shared Value. *Harvard Business Review*, 89(1-2), 62-77.
+
+## Recursos
+
+- [GIIN — thegiin.org](https://thegiin.org): base de datos de inversores, Annual Survey, IRIS+
+- [Convergence Finance](https://www.convergence.finance): datos sobre blended finance
+- [Compartamos con Colombia](https://www.compartamosconcolombia.com): ecosistema colombiano
+- [FDN Colombia](https://www.fdn.com.co): Financiera de Desarrollo Nacional — instrumentos innovadores en Colombia

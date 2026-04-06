@@ -1,0 +1,82 @@
+---
+title: "Nuevos Instrumentos de Financiación del Sector Social"
+subtitle: "Maestría en Gerencia e Innovación Social · EAFIT · Semestre III"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="hero-section">
+  <div class="hero-content">
+    <h1 class="hero-title">Nuevos Instrumentos de Financiación del Sector Social</h1>
+    <p class="hero-subtitle">El sector social enfrenta una paradoja: alta demanda de impacto, escasez de financiamiento sostenible. Esta materia te da las herramientas para resolverla.</p>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-number">3</span><span class="stat-label">Unidades</span></div>
+      <div class="stat"><span class="stat-number">24</span><span class="stat-label">Horas</span></div>
+      <div class="stat"><span class="stat-number">USD 1.6T</span><span class="stat-label">AUM global 2024</span></div>
+      <div class="stat"><span class="stat-number">#2</span><span class="stat-label">Colombia en LAC</span></div>
+    </div>
+    <div class="hero-cta">
+      <a href="syllabus.qmd" class="btn-primary">Ver Syllabus</a>
+      <a href="unidades/unidad-01.qmd" class="btn-secondary">Comenzar Unidad 1</a>
+    </div>
+  </div>
+</div>
+```
+
+## Pregunta central del curso
+
+> **¿Cómo diseñar mecanismos de financiación que movilicen capital hacia problemas sociales complejos, de manera sostenible y medible?**
+
+Esta materia es la síntesis operativa del MGIS. Después de aprender a medir el valor social y a gestionar organizaciones de impacto, llega el momento de responder la pregunta clave: **¿quién financia el cambio, y cómo?**
+
+El curso no asume que los nuevos instrumentos son siempre la respuesta. El mercado global de inversión de impacto alcanzó USD 1.571 billones en AUM en 2024 —pero el 78% de los inversores en América Latina no tiene procesos para gestionar el riesgo climático de sus portafolios (ANDE/LAVCA, 2023), el 98% de los green bonds no financia proyectos genuinamente nuevos (Lam & Wurgler, 2024), y los Bonos de Impacto Social en 5 de 5 casos europeos estudiados no produjeron evaluación de impacto causal (Hevenstone et al., 2023). Aprenderás a usar estas herramientas **con rigor**.
+
+## Estructura del curso
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Unidad 1
+**Ecosistema del financiamiento de impacto**
+
+El mercado global de inversión de impacto, sus actores, instrumentos y el espectro riesgo-retorno-impacto.
+
+[→ Ir a Unidad 1](unidades/unidad-01.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Unidad 2
+**Instrumentos de financiamiento social**
+
+Bonos de Impacto Social (SIB), Bonos de Impacto al Desarrollo (DIB), RBF, bonos verdes/sociales y ESG.
+
+[→ Ir a Unidad 2](unidades/unidad-02.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Unidad 3
+**Estructuración e implementación**
+
+Diseña un term sheet de impacto, convierte SROI en lenguaje inversor, y presenta un pitch ante un comité.
+
+[→ Ir a Unidad 3](unidades/unidad-03.qmd)
+:::
+
+:::
+
+## Evaluación
+
+| Componente | Peso | Tipo | Momento |
+|---|---|---|---|
+| Análisis de elegibilidad | 30% | Individual | Post-Unidad 2 |
+| Term sheet de impacto | 40% | Grupal | Final Unidad 3 |
+| Pitch de inversión | 30% | Grupal | Sesión final |
+
+## Política de IA
+
+El uso de herramientas de inteligencia artificial (Claude, ChatGPT, Gemini) está **permitido y fomentado** para investigar, sistematizar información y mejorar la escritura. No está permitido para reemplazar el análisis crítico ni para generar los entregables sin participación activa del estudiante. En cada entregable debes declarar qué herramientas usaste y cómo.
+
+---
+
+*Escuela de Finanzas, Economía y Gobierno · Universidad EAFIT · Medellín, Colombia*

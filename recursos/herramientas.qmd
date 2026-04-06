@@ -1,0 +1,108 @@
+---
+title: "Herramientas"
+subtitle: "Recursos prácticos para el curso"
+---
+
+## Bases de datos y directorios
+
+| Herramienta | Uso en el curso | Acceso |
+|---|---|---|
+| **GoLab Oxford — Impact Bonds Dataset** | La base más completa de impact bonds en el mundo — búsqueda por país, sector, instrumento | [golab.bsg.ox.ac.uk](https://golab.bsg.ox.ac.uk) — libre |
+| **GIIN Investor Directory** | Identificar inversores de impacto por sector/geografía | [thegiin.org](https://thegiin.org/investor) — libre |
+| **IRIS+** | Seleccionar métricas estandarizadas de impacto para el term sheet | [iris.thegiin.org](https://iris.thegiin.org) — libre |
+| **Convergence Deal Database** | Datos de transacciones de blended finance | [convergence.finance](https://www.convergence.finance) — parcial |
+| **Brookings Impact Bonds** | Casos documentados con análisis de Brookings | [brookings.edu/impact-bonds](https://www.brookings.edu/project/impact-bonds-database/) — libre |
+| **DANE Colombia** | Datos socioeconómicos para líneas base | [dane.gov.co](https://www.dane.gov.co) — libre |
+
+## Frameworks y estándares
+
+| Framework | Uso | Descarga |
+|---|---|---|
+| **Social Bond Principles (ICMA)** | Guía para estructurar bonos sociales | [icmagroup.org](https://www.icmagroup.org/sustainable-finance/) |
+| **GRI Standards** | Reporte de impacto social/ESG | [globalreporting.org](https://www.globalreporting.org/standards/) |
+| **IRIS+ Catalog** | Métricas de impacto estandarizadas | [iris.thegiin.org](https://iris.thegiin.org/metrics/) |
+| **OECD Social Impact Bonds** | Marco conceptual y regulatorio | [oecd.org](https://www.oecd.org/gov/budgeting/social-impact-bonds.htm) |
+
+## Plantillas del curso
+
+### Checklist de elegibilidad (10 criterios)
+
+Para aplicar en el Análisis de Elegibilidad (30% individual):
+
+| # | Criterio | ¿Cumple? | Evidencia | Brecha si no cumple |
+|---|----------|----------|-----------|---------------------|
+| 1 | Problema definido y cuantificado | | | |
+| 2 | Población objetivo identificable | | | |
+| 3 | Resultados observables por terceros | | | |
+| 4 | Línea base disponible ⚠️ | | | |
+| 5 | Intervención con evidencia de efectividad | | | |
+| 6 | Pagador comprometido | | | |
+| 7 | Resultados en horizonte 2-5 años | | | |
+| 8 | Escala suficiente para justificar costos ⚠️ | | | |
+| 9 | Marco legal en la jurisdicción | | | |
+| 10 | Capacidad de implementación demostrada | | | |
+
+### Term sheet de impacto — estructura mínima
+
+Para el entregable grupal (40%):
+
+| Componente | Descripción | ¿Tienes los datos? |
+|------------|-------------|-------------------|
+| **Resumen ejecutivo** | Problema, intervención, escala, horizonte, actores, monto | |
+| **Actores y roles** | Proveedor, pagador, inversor, intermediario, validador | |
+| **Métrica principal** | Resultado SMART + línea base + meta + fuente de datos | |
+| **Estructura de pago** | Monto, condiciones, quién paga qué cuándo | |
+| **Gestión de riesgos** | Tabla de riesgos, probabilidad, impacto, mitigación | |
+| **Marco de evaluación** | Diseño evaluativo independiente del proveedor | |
+| **Cronograma** | Hitos desde estructuración hasta cierre | |
+
+Ver la [plantilla completa con instrucciones detalladas](../../03_contents/unidad-03-estructuracion/plantilla_termsheet.qmd) en los contenidos del curso.
+
+## Política de uso de IA
+
+El uso de herramientas de inteligencia artificial está **permitido y fomentado** en este curso, con las siguientes condiciones:
+
+### Usos permitidos
+
+- Investigar y sintetizar información sobre instrumentos, casos y actores
+- Mejorar la escritura y claridad de los entregables
+- Generar primeros borradores que luego son revisados y refinados
+- Explorar escenarios y sensibilidades en el análisis de casos
+- Verificar y ampliar lecturas
+
+### Usos no permitidos
+
+- Generar el análisis de elegibilidad o el term sheet sin participación activa del equipo
+- Presentar argumentos generados por IA como propios sin revisión crítica
+- Usar IA para responder preguntas durante el pitch (la presentación debe ser del equipo)
+
+### Declaración de uso
+
+En cada entregable, el equipo debe incluir una sección de 2-3 líneas declarando:
+1. Qué herramientas de IA usaron
+2. Para qué las usaron específicamente
+3. Cómo validaron o ajustaron los outputs
+
+### Herramientas disponibles
+
+| Herramienta | Fortaleza para este curso |
+|---|---|
+| **Claude** | Análisis de documentos largos, síntesis de literatura, redacción técnica |
+| **ChatGPT** | Investigación rápida, lluvia de ideas, estructura de argumentos |
+| **Perplexity** | Búsqueda con fuentes citadas, actualización de datos |
+| **Elicit** | Síntesis de literatura académica |
+| **Google NotebookLM** | Análisis de PDFs propios del curso |
+
+## Calculadora SROI → IMoIC
+
+*Para convertir un ratio SROI a IMoIC (para el lenguaje del pitch):*
+
+$$\text{IMoIC} = \text{SROI ratio} \times \text{Inversión total}$$
+
+Ejemplo: Si el SROI es 3.74 y la inversión es USD 500,000:
+
+$$\text{Valor social generado} = 3.74 \times 500{,}000 = \text{USD }1{,}870{,}000$$
+
+$$\text{IMoIC} = 3.74\times$$
+
+*Nota: el IMoIC no incluye el retorno financiero; comunica solo el valor social.*

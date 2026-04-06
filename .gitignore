@@ -1,0 +1,6 @@
+docs/
+.quarto/
+*~
+.DS_Store
+
+/.quarto/

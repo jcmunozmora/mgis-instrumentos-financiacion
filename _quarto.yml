@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "unidades/*.qmd"
+    - "recursos/*.qmd"
+
+website:
+  title: "Nuevos Instrumentos de Financiación del Sector Social"
+  description: "Materia electiva | Maestría en Gerencia e Innovación Social (MGIS) | Universidad EAFIT"
+
+  open-graph: true
+
+  navbar:
+    background: "#003865"
+    foreground: white
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: syllabus.qmd
+        text: Syllabus
+      - text: Unidades
+        menu:
+          - href: unidades/unidad-01.qmd
+            text: "Unidad 1 — Ecosistema"
+          - href: unidades/unidad-02.qmd
+            text: "Unidad 2 — Instrumentos"
+          - href: unidades/unidad-03.qmd
+            text: "Unidad 3 — Estructuración"
+      - text: Recursos
+        menu:
+          - href: recursos/bibliografia.qmd
+            text: "Bibliografía"
+          - href: recursos/glosario.qmd
+            text: "Glosario"
+          - href: recursos/herramientas.qmd
+            text: "Herramientas"
+    right:
+      - icon: github
+        href: https://github.com/jcmunoz-mora
+        aria-label: GitHub
+
+  page-footer:
+    background: "#003865"
+    foreground: white
+    left: |
+      Nuevos Instrumentos de Financiación · MGIS · Universidad EAFIT
+    center: |
+      Escuela de Finanzas, Economía y Gobierno
+    right: |
+      [jcmunoz@eafit.edu.co](mailto:jcmunoz@eafit.edu.co)
+
+  sidebar: false
+
+format:
+  html:
+    theme: flatly
+    css: recursos/styles.css
+    toc: true
+    toc-depth: 2
+    toc-title: "Contenido"
+    lang: es
+    link-external-icon: true
+    link-external-newwindow: true
+
+bibliography: instrumentos_financiacion.bib
+
+execute:
+  freeze: auto
+  echo: false
