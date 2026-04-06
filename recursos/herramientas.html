@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Nuevos Instrumentos de Financiación del Sector Social</title>
+<title>Herramientas – Nuevos Instrumentos de Financiación del Sector Social</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,23 +26,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b32126786ec2fd5a7749e2e1ab9ae7ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-b32126786ec2fd5a7749e2e1ab9ae7ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,10 +71,39 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="recursos/styles.css">
-<meta property="og:title" content="Nuevos Instrumentos de Financiación del Sector Social">
-<meta property="og:description" content="Maestría en Gerencia e Innovación Social · EAFIT · Semestre III">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../recursos/styles.css">
+<meta property="og:title" content="Herramientas – Nuevos Instrumentos de Financiación del Sector Social">
+<meta property="og:description" content="Recursos prácticos para el curso">
 <meta property="og:site_name" content="Nuevos Instrumentos de Financiación del Sector Social">
 </head>
 
@@ -85,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Nuevos Instrumentos de Financiación del Sector Social</span>
     </a>
   </div>
@@ -96,11 +125,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html"> 
+    <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -109,15 +138,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-unidades">    
         <li>
-    <a class="dropdown-item" href="./unidades/unidad-01.html">
+    <a class="dropdown-item" href="../unidades/unidad-01.html">
  <span class="dropdown-text">Unidad 1 — Ecosistema</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./unidades/unidad-02.html">
+    <a class="dropdown-item" href="../unidades/unidad-02.html">
  <span class="dropdown-text">Unidad 2 — Instrumentos</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./unidades/unidad-03.html">
+    <a class="dropdown-item" href="../unidades/unidad-03.html">
  <span class="dropdown-text">Unidad 3 — Estructuración</span></a>
   </li>  
     </ul>
@@ -128,15 +157,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-recursos">    
         <li>
-    <a class="dropdown-item" href="./recursos/bibliografia.html">
+    <a class="dropdown-item" href="../recursos/bibliografia.html">
  <span class="dropdown-text">Bibliografía</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./recursos/glosario.html">
+    <a class="dropdown-item" href="../recursos/glosario.html">
  <span class="dropdown-text">Glosario</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./recursos/herramientas.html">
+    <a class="dropdown-item" href="../recursos/herramientas.html">
  <span class="dropdown-text">Herramientas</span></a>
   </li>  
     </ul>
@@ -156,22 +185,34 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contenido</h2>
+   
+  <ul class="collapse">
+  <li><a href="#bases-de-datos-y-directorios" id="toc-bases-de-datos-y-directorios" class="nav-link active" data-scroll-target="#bases-de-datos-y-directorios">Bases de datos y directorios</a></li>
+  <li><a href="#frameworks-y-estándares" id="toc-frameworks-y-estándares" class="nav-link" data-scroll-target="#frameworks-y-estándares">Frameworks y estándares</a></li>
+  <li><a href="#plantillas-del-curso" id="toc-plantillas-del-curso" class="nav-link" data-scroll-target="#plantillas-del-curso">Plantillas del curso</a></li>
+  <li><a href="#política-de-uso-de-ia" id="toc-política-de-uso-de-ia" class="nav-link" data-scroll-target="#política-de-uso-de-ia">Política de uso de IA</a></li>
+  <li><a href="#calculadora-sroi-imoic" id="toc-calculadora-sroi-imoic" class="nav-link" data-scroll-target="#calculadora-sroi-imoic">Calculadora SROI → IMoIC</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Nuevos Instrumentos de Financiación del Sector Social</h1>
-<p class="subtitle lead">Maestría en Gerencia e Innovación Social · EAFIT · Semestre III</p>
+<h1 class="title">Herramientas</h1>
+<p class="subtitle lead">Recursos prácticos para el curso</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
@@ -183,91 +224,301 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="hero-section">
-  <div class="hero-content">
-    <h1 class="hero-title">Nuevos Instrumentos de Financiación del Sector Social</h1>
-    <p class="hero-subtitle">El sector social enfrenta una paradoja: alta demanda de impacto, escasez de financiamiento sostenible. Esta materia te da las herramientas para resolverla.</p>
-    <div class="hero-stats">
-      <div class="stat"><span class="stat-number">3</span><span class="stat-label">Unidades</span></div>
-      <div class="stat"><span class="stat-number">24</span><span class="stat-label">Horas</span></div>
-      <div class="stat"><span class="stat-number">USD 1.6T</span><span class="stat-label">AUM global 2024</span></div>
-      <div class="stat"><span class="stat-number">#2</span><span class="stat-label">Colombia en LAC</span></div>
-    </div>
-    <div class="hero-cta">
-      <a href="./syllabus.html" class="btn-primary">Ver Syllabus</a>
-      <a href="./unidades/unidad-01.html" class="btn-secondary">Comenzar Unidad 1</a>
-    </div>
-  </div>
-</div>
-<section id="pregunta-central-del-curso" class="level2">
-<h2 class="anchored" data-anchor-id="pregunta-central-del-curso">Pregunta central del curso</h2>
-<blockquote class="blockquote">
-<p><strong>¿Cómo diseñar mecanismos de financiación que movilicen capital hacia problemas sociales complejos, de manera sostenible y medible?</strong></p>
-</blockquote>
-<p>Esta materia es la síntesis operativa del MGIS. Después de aprender a medir el valor social y a gestionar organizaciones de impacto, llega el momento de responder la pregunta clave: <strong>¿quién financia el cambio, y cómo?</strong></p>
-<p>El curso no asume que los nuevos instrumentos son siempre la respuesta. El mercado global de inversión de impacto alcanzó USD 1.571 billones en AUM en 2024 —pero el 78% de los inversores en América Latina no tiene procesos para gestionar el riesgo climático de sus portafolios (ANDE/LAVCA, 2023), el 98% de los green bonds no financia proyectos genuinamente nuevos (Lam &amp; Wurgler, 2024), y los Bonos de Impacto Social en 5 de 5 casos europeos estudiados no produjeron evaluación de impacto causal (Hevenstone et al., 2023). Aprenderás a usar estas herramientas <strong>con rigor</strong>.</p>
-</section>
-<section id="estructura-del-curso" class="level2">
-<h2 class="anchored" data-anchor-id="estructura-del-curso">Estructura del curso</h2>
-<div class="grid">
-<section id="unidad-1" class="level3 g-col-12 g-col-md-4">
-<h3 class="anchored" data-anchor-id="unidad-1">Unidad 1</h3>
-<p><strong>Ecosistema del financiamiento de impacto</strong></p>
-<p>El mercado global de inversión de impacto, sus actores, instrumentos y el espectro riesgo-retorno-impacto.</p>
-<p><a href="./unidades/unidad-01.html">→ Ir a Unidad 1</a></p>
-</section>
-<section id="unidad-2" class="level3 g-col-12 g-col-md-4">
-<h3 class="anchored" data-anchor-id="unidad-2">Unidad 2</h3>
-<p><strong>Instrumentos de financiamiento social</strong></p>
-<p>Bonos de Impacto Social (SIB), Bonos de Impacto al Desarrollo (DIB), RBF, bonos verdes/sociales y ESG.</p>
-<p><a href="./unidades/unidad-02.html">→ Ir a Unidad 2</a></p>
-</section>
-<section id="unidad-3" class="level3 g-col-12 g-col-md-4">
-<h3 class="anchored" data-anchor-id="unidad-3">Unidad 3</h3>
-<p><strong>Estructuración e implementación</strong></p>
-<p>Diseña un term sheet de impacto, convierte SROI en lenguaje inversor, y presenta un pitch ante un comité.</p>
-<p><a href="./unidades/unidad-03.html">→ Ir a Unidad 3</a></p>
-</section>
-</div>
-</section>
-<section id="evaluación" class="level2">
-<h2 class="anchored" data-anchor-id="evaluación">Evaluación</h2>
+<section id="bases-de-datos-y-directorios" class="level2">
+<h2 class="anchored" data-anchor-id="bases-de-datos-y-directorios">Bases de datos y directorios</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>Componente</th>
-<th>Peso</th>
-<th>Tipo</th>
-<th>Momento</th>
+<th>Herramienta</th>
+<th>Uso en el curso</th>
+<th>Acceso</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Análisis de elegibilidad</td>
-<td>30%</td>
-<td>Individual</td>
-<td>Post-Unidad 2</td>
+<td><strong>GoLab Oxford — Impact Bonds Dataset</strong></td>
+<td>La base más completa de impact bonds en el mundo — búsqueda por país, sector, instrumento</td>
+<td><a href="https://golab.bsg.ox.ac.uk">golab.bsg.ox.ac.uk</a> — libre</td>
 </tr>
 <tr class="even">
-<td>Term sheet de impacto</td>
-<td>40%</td>
-<td>Grupal</td>
-<td>Final Unidad 3</td>
+<td><strong>GIIN Investor Directory</strong></td>
+<td>Identificar inversores de impacto por sector/geografía</td>
+<td><a href="https://thegiin.org/investor">thegiin.org</a> — libre</td>
 </tr>
 <tr class="odd">
-<td>Pitch de inversión</td>
-<td>30%</td>
-<td>Grupal</td>
-<td>Sesión final</td>
+<td><strong>IRIS+</strong></td>
+<td>Seleccionar métricas estandarizadas de impacto para el term sheet</td>
+<td><a href="https://iris.thegiin.org">iris.thegiin.org</a> — libre</td>
+</tr>
+<tr class="even">
+<td><strong>Convergence Deal Database</strong></td>
+<td>Datos de transacciones de blended finance</td>
+<td><a href="https://www.convergence.finance">convergence.finance</a> — parcial</td>
+</tr>
+<tr class="odd">
+<td><strong>Brookings Impact Bonds</strong></td>
+<td>Casos documentados con análisis de Brookings</td>
+<td><a href="https://www.brookings.edu/project/impact-bonds-database/">brookings.edu/impact-bonds</a> — libre</td>
+</tr>
+<tr class="even">
+<td><strong>DANE Colombia</strong></td>
+<td>Datos socioeconómicos para líneas base</td>
+<td><a href="https://www.dane.gov.co">dane.gov.co</a> — libre</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="política-de-ia" class="level2">
-<h2 class="anchored" data-anchor-id="política-de-ia">Política de IA</h2>
-<p>El uso de herramientas de inteligencia artificial (Claude, ChatGPT, Gemini) está <strong>permitido y fomentado</strong> para investigar, sistematizar información y mejorar la escritura. No está permitido para reemplazar el análisis crítico ni para generar los entregables sin participación activa del estudiante. En cada entregable debes declarar qué herramientas usaste y cómo.</p>
-<hr>
-<p><em>Escuela de Finanzas, Economía y Gobierno · Universidad EAFIT · Medellín, Colombia</em></p>
+<section id="frameworks-y-estándares" class="level2">
+<h2 class="anchored" data-anchor-id="frameworks-y-estándares">Frameworks y estándares</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Framework</th>
+<th>Uso</th>
+<th>Descarga</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Social Bond Principles (ICMA)</strong></td>
+<td>Guía para estructurar bonos sociales</td>
+<td><a href="https://www.icmagroup.org/sustainable-finance/">icmagroup.org</a></td>
+</tr>
+<tr class="even">
+<td><strong>GRI Standards</strong></td>
+<td>Reporte de impacto social/ESG</td>
+<td><a href="https://www.globalreporting.org/standards/">globalreporting.org</a></td>
+</tr>
+<tr class="odd">
+<td><strong>IRIS+ Catalog</strong></td>
+<td>Métricas de impacto estandarizadas</td>
+<td><a href="https://iris.thegiin.org/metrics/">iris.thegiin.org</a></td>
+</tr>
+<tr class="even">
+<td><strong>OECD Social Impact Bonds</strong></td>
+<td>Marco conceptual y regulatorio</td>
+<td><a href="https://www.oecd.org/gov/budgeting/social-impact-bonds.htm">oecd.org</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="plantillas-del-curso" class="level2">
+<h2 class="anchored" data-anchor-id="plantillas-del-curso">Plantillas del curso</h2>
+<section id="checklist-de-elegibilidad-10-criterios" class="level3">
+<h3 class="anchored" data-anchor-id="checklist-de-elegibilidad-10-criterios">Checklist de elegibilidad (10 criterios)</h3>
+<p>Para aplicar en el Análisis de Elegibilidad (30% individual):</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>#</th>
+<th>Criterio</th>
+<th>¿Cumple?</th>
+<th>Evidencia</th>
+<th>Brecha si no cumple</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Problema definido y cuantificado</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Población objetivo identificable</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Resultados observables por terceros</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Línea base disponible ⚠️</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Intervención con evidencia de efectividad</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Pagador comprometido</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Resultados en horizonte 2-5 años</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Escala suficiente para justificar costos ⚠️</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Marco legal en la jurisdicción</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>Capacidad de implementación demostrada</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="term-sheet-de-impacto-estructura-mínima" class="level3">
+<h3 class="anchored" data-anchor-id="term-sheet-de-impacto-estructura-mínima">Term sheet de impacto — estructura mínima</h3>
+<p>Para el entregable grupal (40%):</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 27%">
+<col style="width: 29%">
+<col style="width: 43%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Componente</th>
+<th>Descripción</th>
+<th>¿Tienes los datos?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Resumen ejecutivo</strong></td>
+<td>Problema, intervención, escala, horizonte, actores, monto</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Actores y roles</strong></td>
+<td>Proveedor, pagador, inversor, intermediario, validador</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Métrica principal</strong></td>
+<td>Resultado SMART + línea base + meta + fuente de datos</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Estructura de pago</strong></td>
+<td>Monto, condiciones, quién paga qué cuándo</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Gestión de riesgos</strong></td>
+<td>Tabla de riesgos, probabilidad, impacto, mitigación</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Marco de evaluación</strong></td>
+<td>Diseño evaluativo independiente del proveedor</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Cronograma</strong></td>
+<td>Hitos desde estructuración hasta cierre</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Ver la <a href="../../03_contents/unidad-03-estructuracion/plantilla_termsheet.qmd">plantilla completa con instrucciones detalladas</a> en los contenidos del curso.</p>
+</section>
+</section>
+<section id="política-de-uso-de-ia" class="level2">
+<h2 class="anchored" data-anchor-id="política-de-uso-de-ia">Política de uso de IA</h2>
+<p>El uso de herramientas de inteligencia artificial está <strong>permitido y fomentado</strong> en este curso, con las siguientes condiciones:</p>
+<section id="usos-permitidos" class="level3">
+<h3 class="anchored" data-anchor-id="usos-permitidos">Usos permitidos</h3>
+<ul>
+<li>Investigar y sintetizar información sobre instrumentos, casos y actores</li>
+<li>Mejorar la escritura y claridad de los entregables</li>
+<li>Generar primeros borradores que luego son revisados y refinados</li>
+<li>Explorar escenarios y sensibilidades en el análisis de casos</li>
+<li>Verificar y ampliar lecturas</li>
+</ul>
+</section>
+<section id="usos-no-permitidos" class="level3">
+<h3 class="anchored" data-anchor-id="usos-no-permitidos">Usos no permitidos</h3>
+<ul>
+<li>Generar el análisis de elegibilidad o el term sheet sin participación activa del equipo</li>
+<li>Presentar argumentos generados por IA como propios sin revisión crítica</li>
+<li>Usar IA para responder preguntas durante el pitch (la presentación debe ser del equipo)</li>
+</ul>
+</section>
+<section id="declaración-de-uso" class="level3">
+<h3 class="anchored" data-anchor-id="declaración-de-uso">Declaración de uso</h3>
+<p>En cada entregable, el equipo debe incluir una sección de 2-3 líneas declarando: 1. Qué herramientas de IA usaron 2. Para qué las usaron específicamente 3. Cómo validaron o ajustaron los outputs</p>
+</section>
+<section id="herramientas-disponibles" class="level3">
+<h3 class="anchored" data-anchor-id="herramientas-disponibles">Herramientas disponibles</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Herramienta</th>
+<th>Fortaleza para este curso</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Claude</strong></td>
+<td>Análisis de documentos largos, síntesis de literatura, redacción técnica</td>
+</tr>
+<tr class="even">
+<td><strong>ChatGPT</strong></td>
+<td>Investigación rápida, lluvia de ideas, estructura de argumentos</td>
+</tr>
+<tr class="odd">
+<td><strong>Perplexity</strong></td>
+<td>Búsqueda con fuentes citadas, actualización de datos</td>
+</tr>
+<tr class="even">
+<td><strong>Elicit</strong></td>
+<td>Síntesis de literatura académica</td>
+</tr>
+<tr class="odd">
+<td><strong>Google NotebookLM</strong></td>
+<td>Análisis de PDFs propios del curso</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="calculadora-sroi-imoic" class="level2">
+<h2 class="anchored" data-anchor-id="calculadora-sroi-imoic">Calculadora SROI → IMoIC</h2>
+<p><em>Para convertir un ratio SROI a IMoIC (para el lenguaje del pitch):</em></p>
+<p><span class="math display">\[\text{IMoIC} = \text{SROI ratio} \times \text{Inversión total}\]</span></p>
+<p>Ejemplo: Si el SROI es 3.74 y la inversión es USD 500,000:</p>
+<p><span class="math display">\[\text{Valor social generado} = 3.74 \times 500{,}000 = \text{USD }1{,}870{,}000\]</span></p>
+<p><span class="math display">\[\text{IMoIC} = 3.74\times\]</span></p>
+<p><em>Nota: el IMoIC no incluye el retorno financiero; comunica solo el valor social.</em></p>
 
 
 </section>

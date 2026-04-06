@@ -1,0 +1,394 @@
+[
+  {
+    "objectID": "unidades/unidad-03.html",
+    "href": "unidades/unidad-03.html",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "",
+    "text": "¿Cómo se estructura técnicamente un instrumento de financiación de impacto, se negocia con los actores relevantes, y se comunica de manera persuasiva a inversores?"
+  },
+  {
+    "objectID": "unidades/unidad-03.html#pregunta-guía",
+    "href": "unidades/unidad-03.html#pregunta-guía",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "",
+    "text": "¿Cómo se estructura técnicamente un instrumento de financiación de impacto, se negocia con los actores relevantes, y se comunica de manera persuasiva a inversores?"
+  },
+  {
+    "objectID": "unidades/unidad-03.html#objetivos-de-aprendizaje",
+    "href": "unidades/unidad-03.html#objetivos-de-aprendizaje",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "Objetivos de aprendizaje",
+    "text": "Objetivos de aprendizaje\nAl finalizar esta unidad, el estudiante será capaz de:\n\nDiseñar un term sheet básico de impacto con sus componentes mínimos (Crear)\nConvertir un análisis SROI en lenguaje comprensible para inversores de impacto (Aplicar)\nIdentificar los principales riesgos y cuellos de botella en la implementación de SIBs en Colombia (Analizar)\nPresentar una propuesta de inversión de impacto ante un comité inversor simulado (Crear + Comunicar)"
+  },
+  {
+    "objectID": "unidades/unidad-03.html#el-contexto-colombiano-en-perspectiva-global",
+    "href": "unidades/unidad-03.html#el-contexto-colombiano-en-perspectiva-global",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "El contexto colombiano en perspectiva global",
+    "text": "El contexto colombiano en perspectiva global\n\n\n\n\n\n\nNota\n\n\n\nDatos del SIB Empleando Futuro (Cali, 2017) — el caso ancla de la unidad:\n\nAl 1 de agosto de 2017: 90 SIBs contratados en el mundo. 89 en países de alto ingreso. 1 en Colombia.\nTipo de inversor: Fundación Corona (filantrópico) — no capital privado convencional\nRetorno máximo ofrecido: 8% anual — uno de los más bajos registrados globalmente\nResultado alcanzado: 117% de la meta\nIntermediario: Instiglio\nDuración: &lt; 2 años — uno de los más cortos en la base global de GoLab Oxford\n\nY sobre el blended finance:\n\nCada USD 1 de BMDs/BDFs moviliza en promedio solo USD 0.75 de capital privado — muy por debajo del “5 a 1” que se cita habitualmente (Attridge & Engen, 2019)\nUna persona pobre en un país de ingresos medios recibe 47 veces más blended finance que una en un país de bajos ingresos — aunque la ODA convencional tiene una razón de solo 2.4 a 1"
+  },
+  {
+    "objectID": "unidades/unidad-03.html#pre-trabajo-antes-de-la-sesión-5",
+    "href": "unidades/unidad-03.html#pre-trabajo-antes-de-la-sesión-5",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "Pre-trabajo (antes de la sesión 5)",
+    "text": "Pre-trabajo (antes de la sesión 5)\nLecturas obligatorias:\n\nGustafsson-Wright, Boggild-Jones, Segell & Durland (2017). Impact Bonds in Developing Countries: Early Learnings from the Field. Brookings & Convergence — Intro + casos + lecciones. Tiempo estimado: 35 min\nAttridge, S. & Engen, L. (2019). Blended Finance in the Poorest Countries. ODI — Resumen ejecutivo + adicionalidad + distribución geográfica. Tiempo estimado: 30 min\nHevenstone et al. (2023) — releer solo conclusiones y secciones de mecanismos con nuevo foco: ¿cómo diseñar para que el abandono evaluativo no ocurra? Tiempo estimado: 15 min\n\nTarea preparatoria — Ficha del caso final:\nAntes de la Sesión 5, el equipo prepara una ficha de 1 página:\n\nNombre del programa social seleccionado\nProblema social que aborda (con datos verificables)\nOrganización implementadora y su historial\nPosible pagador (¿quién paga si los resultados se alcanzan?)\nResultado clave que medirías — ¿es verificable? ¿hay línea base?\nInstrumento propuesto (SIB / DIB / RBF / Bono Social / Blended Finance) — justifica la elección\nUna duda técnica sobre la estructuración"
+  },
+  {
+    "objectID": "unidades/unidad-03.html#agenda-de-sesiones",
+    "href": "unidades/unidad-03.html#agenda-de-sesiones",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "Agenda de sesiones",
+    "text": "Agenda de sesiones\n\nSesión 5 (4 horas): Estructuración técnica\n\n\n\n\n\n\n\nTiempo\nActividad\n\n\n\n\n0:00–0:15\nActivar: El inversor exigente — 4 preguntas que siempre hace el jurado\n\n\n0:15–0:55\nMini-clase: Anatomía del term sheet — los 7 componentes mínimos y su lógica\n\n\n0:55–1:35\nTaller: completar el template de term sheet con caso de calibración (Apartadó, Colombia)\n\n\n1:35–1:45\nDescanso\n\n\n1:45–2:20\nSROI → IMoIC: ejercicio numérico en clase\n\n\n2:20–2:50\nRiesgos y fracasos: ¿por qué fallan los SIBs? Taxonomía y casos\n\n\n2:50–3:00\nTrabajo en equipo: iniciar term sheet del caso final\n\n\n\n\n\nSesión 6 (4 horas): Pitch y cierre del curso\n\n\n\n\n\n\n\nTiempo\nActividad\n\n\n\n\n0:00–0:30\nLaboratorio de pitch: estructura, narrativa, “ask”\n\n\n0:30–1:00\nPráctica en pares con ficha de retroalimentación estructurada\n\n\n1:00–1:10\nDescanso\n\n\n1:10–2:30\nPitching ante jurado simulado (15 min por equipo: 8 presentación + 7 preguntas)\n\n\n2:30–2:50\nRetroalimentación del jurado + autoevaluación\n\n\n2:50–3:00\nCierre del curso: ¿qué aprendimos? ¿cuál fue el momento más difícil?"
+  },
+  {
+    "objectID": "unidades/unidad-03.html#las-4-preguntas-difíciles-del-jurado",
+    "href": "unidades/unidad-03.html#las-4-preguntas-difíciles-del-jurado",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "Las 4 preguntas difíciles del jurado",
+    "text": "Las 4 preguntas difíciles del jurado\n\n\n\n\n\n\nAdvertencia\n\n\n\nPrepara respuestas concretas para estas cuatro preguntas — siempre aparecen:\n1. “¿Quién verifica los resultados y cómo sé que es independiente?” → El validador debe ser independiente de todos los actores del contrato. Si el proveedor tiene cualquier influencia sobre el verificador, el contrato está comprometido (Hevenstone et al., 2023).\n2. “¿Qué pasa si no se alcanza la meta? ¿Puedo perder todo mi capital?” → Sí — ese es el modelo. No lo suavices. Explica cómo reduces la probabilidad de que ocurra: intervención con evidencia, proveedor con trayectoria, métricas conservadoras.\n3. “¿Por qué no simplemente hace una donación al programa?” → Porque el instrumento alinea incentivos hacia resultados verificados, no hacia actividades. Una donación no garantiza que el proveedor rinda cuentas por el resultado final.\n4. “¿Cómo sé que el resultado se debe a su intervención y no a otros factores?” → Este es el problema de Hevenstone. La respuesta honesta reconoce la dificultad: sin grupo de control no hay certeza causal. Explica qué diseño evaluativo elegiste y por qué."
+  },
+  {
+    "objectID": "unidades/unidad-03.html#actividades-evaluables",
+    "href": "unidades/unidad-03.html#actividades-evaluables",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "Actividades evaluables",
+    "text": "Actividades evaluables\n\nTerm sheet de impacto (40% — grupal)\nEstructura técnica completa del instrumento de financiación para el caso real del equipo.\nEntregables: 1. Term sheet completo siguiendo la plantilla del curso — 8-12 páginas 2. Resumen ejecutivo de 1 página para el comité inversor 3. Declaración de uso de IA (si aplica) — 2-3 líneas\nHitos de avance (sin nota, con retroalimentación):\n\n\n\n\n\n\n\n\nHito\nMomento\nEntregable\n\n\n\n\nFicha de caso\nFin Unidad 1\n1 página: problema, organización, posible pagador\n\n\nElegibilidad\nAnálisis individual (Unidad 2)\nParte del análisis individual de cada miembro\n\n\nTerm sheet completo\n7 días post-sesión 6\nVersión final del equipo\n\n\n\n\n\n\nCriterio\nPeso\n\n\n\n\nClaridad del problema e intervención (con datos)\n20%\n\n\nSolidez de la métrica de resultado (SMART + línea base)\n25%\n\n\nEstructura de pago realista y coherente\n20%\n\n\nGestión del riesgo — identificación + mitigación\n15%\n\n\nMarco de evaluación independiente\n20%\n\n\n\n\n\nPitch de inversión (30% — grupal)\nPresentación de 8 minutos ante jurado simulado + 7 minutos de preguntas.\nEstructura recomendada:\n\n\n\n\n\n\n\n\nParte\nDuración\nPregunta que responde\n\n\n\n\nEl problema\n1 min\n¿Por qué esto importa ahora?\n\n\nLa solución\n1.5 min\n¿Qué intervención funciona y por qué?\n\n\nEl instrumento\n2 min\n¿Cómo está estructurado? ¿Quién paga qué cuándo?\n\n\nLa evidencia\n1.5 min\n¿Por qué confiar en este proveedor?\n\n\nEl ask\n1 min\n¿Qué monto, en qué forma, para qué exactamente?\n\n\nEl equipo\n1 min\n¿Por qué ustedes pueden ejecutar esto?\n\n\n\n\n\n\nCriterio\nPeso\n\n\n\n\nClaridad del problema y la solución\n25%\n\n\nSolidez técnica del instrumento propuesto\n30%\n\n\nCalidad de la evidencia presentada\n20%\n\n\nPersuasión y manejo de preguntas difíciles\n25%"
+  },
+  {
+    "objectID": "unidades/unidad-03.html#recursos-de-la-unidad",
+    "href": "unidades/unidad-03.html#recursos-de-la-unidad",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "Recursos de la unidad",
+    "text": "Recursos de la unidad\n\nPlantilla de term sheet — disponible en la página de herramientas\nGoLab Oxford — base de datos de todos los impact bonds contratados\nInstiglio — intermediario del SIB Empleando Futuro, casos documentados\nDecreto 092/2017 — marco legal de Contratos de Impacto Social en Colombia"
+  },
+  {
+    "objectID": "unidades/unidad-03.html#lecturas",
+    "href": "unidades/unidad-03.html#lecturas",
+    "title": "Unidad 3 — Estructuración e Implementación",
+    "section": "Lecturas",
+    "text": "Lecturas\n\nObligatorias\n\n\n\nTexto\nAcceso\n\n\n\n\nGustafsson-Wright, E. et al. (2017). Impact Bonds in Developing Countries. Brookings & Convergence\nbrookings.edu — libre\n\n\nAttridge, S. & Engen, L. (2019). Blended Finance in the Poorest Countries. ODI\nodi.org — libre\n\n\n\n\n\nComplementarias\n\n\n\n\n\n\n\nTexto\nNota\n\n\n\n\nFlammer, C. (2025). The economics of blended finance\nMarco conceptual sobre adicionalidad del BF\n\n\nVolz, U., Lo, Y.C. & Mishra, S. (2024). Scaling Up Green Investment in the Global South. SOAS\nEl argumento más radical del curso: el BF no puede escalar sin reformas estructurales"
+  },
+  {
+    "objectID": "unidades/unidad-01.html",
+    "href": "unidades/unidad-01.html",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "",
+    "text": "¿Por qué el modelo de subvenciones es insuficiente para financiar el cambio social a escala, y qué alternativas han emergido?"
+  },
+  {
+    "objectID": "unidades/unidad-01.html#pregunta-guía",
+    "href": "unidades/unidad-01.html#pregunta-guía",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "",
+    "text": "¿Por qué el modelo de subvenciones es insuficiente para financiar el cambio social a escala, y qué alternativas han emergido?"
+  },
+  {
+    "objectID": "unidades/unidad-01.html#objetivos-de-aprendizaje",
+    "href": "unidades/unidad-01.html#objetivos-de-aprendizaje",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "Objetivos de aprendizaje",
+    "text": "Objetivos de aprendizaje\nAl finalizar esta unidad, el estudiante será capaz de:\n\nExplicar las fallas de mercado que justifican la existencia de instrumentos de financiación de impacto (Comprender)\nCaracterizar los principales actores del ecosistema de inversión de impacto global y colombiano (Comprender)\nUbicar cualquier instrumento financiero en el espectro riesgo-retorno-impacto (Analizar)\nEvaluar críticamente la narrativa de crecimiento del campo a la luz de evidencia reciente (Evaluar)"
+  },
+  {
+    "objectID": "unidades/unidad-01.html#el-campo-en-cifras",
+    "href": "unidades/unidad-01.html#el-campo-en-cifras",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "El campo en cifras",
+    "text": "El campo en cifras\n\n\n\n\n\n\nNota\n\n\n\nDatos clave del campo (2023-2024):\n\nUSD 1.571 billones en activos bajo gestión en inversión de impacto — GIIN (2024)\n37 inversores activos en Colombia, segundo lugar en LAC después de Brasil (39) — ANDE/LAVCA (2023)\nUSD 3.4 billones en AUM en LAC (muestra de 92 inversores) — ANDE/LAVCA (2023)\n61% de inversores busca retornos de mercado — subió desde 46% en el reporte anterior — ¿el campo se está financializando?\n78% de inversores no tiene procesos para gestionar riesgo climático en sus portafolios — pese a declararlo prioritario\nUSD 500 billones fue la estimación de Monitor Institute (2009) para el mercado en 2020. El mercado real en 2024: USD 1.571 billones. La promesa se superó —¿cambió lo que era importante cambiar?"
+  },
+  {
+    "objectID": "unidades/unidad-01.html#pre-trabajo-antes-de-la-primera-sesión",
+    "href": "unidades/unidad-01.html#pre-trabajo-antes-de-la-primera-sesión",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "Pre-trabajo (antes de la primera sesión)",
+    "text": "Pre-trabajo (antes de la primera sesión)\nLecturas obligatorias:\n\nBugg-Levine & Emerson (2011), Capítulos 1-2 — Impact Investing. Tiempo estimado: 45 min\nANDE & LAVCA (2023) — Impact Investing in Latin America: Trends 2020-2021. Leer: resumen ejecutivo + sección Colombia + metodología. Tiempo estimado: 30 min\nFreireich & Fulton (2009) — Investing for Social and Environmental Impact, Monitor Institute. Leer: solo secciones 1-2. Tiempo estimado: 20 min\n\nRecurso audiovisual:\n\nDan Pallotta — The Way We Think About Charity is Dead Wrong, TED 2013. Duración: 18 min. → Mientras ves: ¿Cuáles son las 5 “reglas” que según Pallotta limitan el sector social?\n\nLectura crítica (para quienes quieren profundizar):\n\nSchlütter, Schätzlein, Hahn & Waldner (2024) — Missing the Impact in Impact Investing Research. Intro + conclusiones: 20 min.\n\nPreguntas para llegar a clase:\n\nPiensa en una organización social que conoces: ¿de dónde viene su dinero? ¿Qué pasaría si ese dinero se agotara mañana?\n¿Cuál es la diferencia entre un inversor de impacto y un filántropo tradicional según Bugg-Levine & Emerson?\n¿Se cumplió la promesa del Monitor Institute (2009)?"
+  },
+  {
+    "objectID": "unidades/unidad-01.html#agenda-de-sesiones",
+    "href": "unidades/unidad-01.html#agenda-de-sesiones",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "Agenda de sesiones",
+    "text": "Agenda de sesiones\n\nSesión 1 (4 horas): El mercado y sus fallas\n\n\n\n\n\n\n\nTiempo\nActividad\n\n\n\n\n0:00–0:20\nActivar: Encuesta diagnóstica — ¿de dónde viene el dinero de tu organización? Mapa en vivo\n\n\n0:20–0:55\nMini-clase: Fallas de mercado en el sector social; por qué el capital privado no fluye espontáneamente\n\n\n0:55–1:30\nCaso: Dan Pallotta — las 5 “reglas” que limitan el sector. Debate: ¿Tiene razón? ¿Qué diría Hevenstone?\n\n\n1:30–1:40\nDescanso\n\n\n1:40–2:15\nEl espectro riesgo-retorno-impacto: del subsidio puro a la inversión de mercado\n\n\n2:15–2:50\nTrabajo en equipos: ubicar 8 instrumentos reales en el espectro\n\n\n2:50–3:00\nCierre: síntesis + pregunta de salida\n\n\n\n\n\nSesión 2 (4 horas): Actores, ecosistema y evidencia crítica\n\n\n\n\n\n\n\nTiempo\nActividad\n\n\n\n\n0:00–0:20\nRevisión pre-trabajo: los 3 criterios de la inversión de impacto (intencionalidad, adicionalidad, medición)\n\n\n0:20–0:55\nMini-clase: actores del ecosistema global; GIIN, PRI, Blended Finance Taskforce\n\n\n0:55–1:30\nAnálisis ANDE/LAVCA 2023: ¿Colombia como segundo mercado — qué significa eso realmente?\n\n\n1:30–1:40\nDescanso\n\n\n1:40–2:20\nTaller grupal: Mapeo del ecosistema colombiano por sector\n\n\n2:20–2:45\nPlenaria: presentación de mapas + discusión\n\n\n2:45–3:00\nCierre: tensión entre las promesas del campo y la evidencia de Schlütter et al. (2024)"
+  },
+  {
+    "objectID": "unidades/unidad-01.html#actividad-de-la-unidad",
+    "href": "unidades/unidad-01.html#actividad-de-la-unidad",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "Actividad de la unidad",
+    "text": "Actividad de la unidad\nMapeo del ecosistema de inversión de impacto en Colombia\nEn equipos de 3-4 personas, elaboren un mapa del ecosistema de inversión de impacto en un sector de su elección (educación, salud, medio ambiente, vivienda, empleo) en Colombia:\n\n¿Quiénes son los actores principales? (inversores, intermediarios, beneficiarios, reguladores)\n¿Qué instrumentos utilizan actualmente? ¿Dónde se ubican en el espectro?\n¿Cuáles son las principales brechas de financiamiento?\n¿Qué oportunidades identifican para nuevos instrumentos?\n\nFormato: presentación de 5 minutos + documento de 2 páginas. Esta actividad alimenta el proyecto final — elegir un sector que les interese para el term sheet."
+  },
+  {
+    "objectID": "unidades/unidad-01.html#lecturas",
+    "href": "unidades/unidad-01.html#lecturas",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "Lecturas",
+    "text": "Lecturas\n\nObligatorias\n\n\n\nTexto\nPáginas\nDónde conseguirlo\n\n\n\n\nBugg-Levine & Emerson (2011). Impact Investing, Caps. 1-2\npp. 1-45\nBiblioteca EAFIT\n\n\nANDE & LAVCA (2023). Impact Investing in Latin America\nResumen + Colombia + metodología\nRepositorio del curso\n\n\nFreireich & Fulton (2009). Investing for Social and Environmental Impact. Monitor Institute\nSecciones 1-2\n[Repositorio del curso — Open Access]\n\n\nGIIN (2024). Annual Impact Investor Survey\nResumen ejecutivo\nthegiin.org — libre\n\n\n\n\n\nComplementarias\n\nSchlütter, M., Schätzlein, T., Hahn, T. & Waldner, F. (2024). Missing the impact in impact investing research. Business Strategy and the Environment.\nO’Donohoe, N. et al. (2010). Impact Investments: An Emerging Asset Class. J.P. Morgan.\nPorter, M. & Kramer, M. (2011). Creating Shared Value. Harvard Business Review, 89(1-2), 62-77."
+  },
+  {
+    "objectID": "unidades/unidad-01.html#recursos",
+    "href": "unidades/unidad-01.html#recursos",
+    "title": "Unidad 1 — Ecosistema del Financiamiento de Impacto",
+    "section": "Recursos",
+    "text": "Recursos\n\nGIIN — thegiin.org: base de datos de inversores, Annual Survey, IRIS+\nConvergence Finance: datos sobre blended finance\nCompartamos con Colombia: ecosistema colombiano\nFDN Colombia: Financiera de Desarrollo Nacional — instrumentos innovadores en Colombia"
+  },
+  {
+    "objectID": "recursos/herramientas.html",
+    "href": "recursos/herramientas.html",
+    "title": "Herramientas",
+    "section": "",
+    "text": "Herramienta\nUso en el curso\nAcceso\n\n\n\n\nGoLab Oxford — Impact Bonds Dataset\nLa base más completa de impact bonds en el mundo — búsqueda por país, sector, instrumento\ngolab.bsg.ox.ac.uk — libre\n\n\nGIIN Investor Directory\nIdentificar inversores de impacto por sector/geografía\nthegiin.org — libre\n\n\nIRIS+\nSeleccionar métricas estandarizadas de impacto para el term sheet\niris.thegiin.org — libre\n\n\nConvergence Deal Database\nDatos de transacciones de blended finance\nconvergence.finance — parcial\n\n\nBrookings Impact Bonds\nCasos documentados con análisis de Brookings\nbrookings.edu/impact-bonds — libre\n\n\nDANE Colombia\nDatos socioeconómicos para líneas base\ndane.gov.co — libre"
+  },
+  {
+    "objectID": "recursos/herramientas.html#bases-de-datos-y-directorios",
+    "href": "recursos/herramientas.html#bases-de-datos-y-directorios",
+    "title": "Herramientas",
+    "section": "",
+    "text": "Herramienta\nUso en el curso\nAcceso\n\n\n\n\nGoLab Oxford — Impact Bonds Dataset\nLa base más completa de impact bonds en el mundo — búsqueda por país, sector, instrumento\ngolab.bsg.ox.ac.uk — libre\n\n\nGIIN Investor Directory\nIdentificar inversores de impacto por sector/geografía\nthegiin.org — libre\n\n\nIRIS+\nSeleccionar métricas estandarizadas de impacto para el term sheet\niris.thegiin.org — libre\n\n\nConvergence Deal Database\nDatos de transacciones de blended finance\nconvergence.finance — parcial\n\n\nBrookings Impact Bonds\nCasos documentados con análisis de Brookings\nbrookings.edu/impact-bonds — libre\n\n\nDANE Colombia\nDatos socioeconómicos para líneas base\ndane.gov.co — libre"
+  },
+  {
+    "objectID": "recursos/herramientas.html#frameworks-y-estándares",
+    "href": "recursos/herramientas.html#frameworks-y-estándares",
+    "title": "Herramientas",
+    "section": "Frameworks y estándares",
+    "text": "Frameworks y estándares\n\n\n\nFramework\nUso\nDescarga\n\n\n\n\nSocial Bond Principles (ICMA)\nGuía para estructurar bonos sociales\nicmagroup.org\n\n\nGRI Standards\nReporte de impacto social/ESG\nglobalreporting.org\n\n\nIRIS+ Catalog\nMétricas de impacto estandarizadas\niris.thegiin.org\n\n\nOECD Social Impact Bonds\nMarco conceptual y regulatorio\noecd.org"
+  },
+  {
+    "objectID": "recursos/herramientas.html#plantillas-del-curso",
+    "href": "recursos/herramientas.html#plantillas-del-curso",
+    "title": "Herramientas",
+    "section": "Plantillas del curso",
+    "text": "Plantillas del curso\n\nChecklist de elegibilidad (10 criterios)\nPara aplicar en el Análisis de Elegibilidad (30% individual):\n\n\n\n#\nCriterio\n¿Cumple?\nEvidencia\nBrecha si no cumple\n\n\n\n\n1\nProblema definido y cuantificado\n\n\n\n\n\n2\nPoblación objetivo identificable\n\n\n\n\n\n3\nResultados observables por terceros\n\n\n\n\n\n4\nLínea base disponible ⚠️\n\n\n\n\n\n5\nIntervención con evidencia de efectividad\n\n\n\n\n\n6\nPagador comprometido\n\n\n\n\n\n7\nResultados en horizonte 2-5 años\n\n\n\n\n\n8\nEscala suficiente para justificar costos ⚠️\n\n\n\n\n\n9\nMarco legal en la jurisdicción\n\n\n\n\n\n10\nCapacidad de implementación demostrada\n\n\n\n\n\n\n\n\nTerm sheet de impacto — estructura mínima\nPara el entregable grupal (40%):\n\n\n\n\n\n\n\n\nComponente\nDescripción\n¿Tienes los datos?\n\n\n\n\nResumen ejecutivo\nProblema, intervención, escala, horizonte, actores, monto\n\n\n\nActores y roles\nProveedor, pagador, inversor, intermediario, validador\n\n\n\nMétrica principal\nResultado SMART + línea base + meta + fuente de datos\n\n\n\nEstructura de pago\nMonto, condiciones, quién paga qué cuándo\n\n\n\nGestión de riesgos\nTabla de riesgos, probabilidad, impacto, mitigación\n\n\n\nMarco de evaluación\nDiseño evaluativo independiente del proveedor\n\n\n\nCronograma\nHitos desde estructuración hasta cierre\n\n\n\n\nVer la plantilla completa con instrucciones detalladas en los contenidos del curso."
+  },
+  {
+    "objectID": "recursos/herramientas.html#política-de-uso-de-ia",
+    "href": "recursos/herramientas.html#política-de-uso-de-ia",
+    "title": "Herramientas",
+    "section": "Política de uso de IA",
+    "text": "Política de uso de IA\nEl uso de herramientas de inteligencia artificial está permitido y fomentado en este curso, con las siguientes condiciones:\n\nUsos permitidos\n\nInvestigar y sintetizar información sobre instrumentos, casos y actores\nMejorar la escritura y claridad de los entregables\nGenerar primeros borradores que luego son revisados y refinados\nExplorar escenarios y sensibilidades en el análisis de casos\nVerificar y ampliar lecturas\n\n\n\nUsos no permitidos\n\nGenerar el análisis de elegibilidad o el term sheet sin participación activa del equipo\nPresentar argumentos generados por IA como propios sin revisión crítica\nUsar IA para responder preguntas durante el pitch (la presentación debe ser del equipo)\n\n\n\nDeclaración de uso\nEn cada entregable, el equipo debe incluir una sección de 2-3 líneas declarando: 1. Qué herramientas de IA usaron 2. Para qué las usaron específicamente 3. Cómo validaron o ajustaron los outputs\n\n\nHerramientas disponibles\n\n\n\n\n\n\n\nHerramienta\nFortaleza para este curso\n\n\n\n\nClaude\nAnálisis de documentos largos, síntesis de literatura, redacción técnica\n\n\nChatGPT\nInvestigación rápida, lluvia de ideas, estructura de argumentos\n\n\nPerplexity\nBúsqueda con fuentes citadas, actualización de datos\n\n\nElicit\nSíntesis de literatura académica\n\n\nGoogle NotebookLM\nAnálisis de PDFs propios del curso"
+  },
+  {
+    "objectID": "recursos/herramientas.html#calculadora-sroi-imoic",
+    "href": "recursos/herramientas.html#calculadora-sroi-imoic",
+    "title": "Herramientas",
+    "section": "Calculadora SROI → IMoIC",
+    "text": "Calculadora SROI → IMoIC\nPara convertir un ratio SROI a IMoIC (para el lenguaje del pitch):\n\\[\\text{IMoIC} = \\text{SROI ratio} \\times \\text{Inversión total}\\]\nEjemplo: Si el SROI es 3.74 y la inversión es USD 500,000:\n\\[\\text{Valor social generado} = 3.74 \\times 500{,}000 = \\text{USD }1{,}870{,}000\\]\n\\[\\text{IMoIC} = 3.74\\times\\]\nNota: el IMoIC no incluye el retorno financiero; comunica solo el valor social."
+  },
+  {
+    "objectID": "recursos/bibliografia.html",
+    "href": "recursos/bibliografia.html",
+    "title": "Bibliografía",
+    "section": "",
+    "text": "Las referencias marcadas con [OA] son de acceso abierto y descarga libre. Las marcadas con [BIB] están disponibles a través de la biblioteca EAFIT. Todas las lecturas del repositorio del curso están en 02_literature/pdfs/."
+  },
+  {
+    "objectID": "recursos/bibliografia.html#bibliografía-básica-del-curso",
+    "href": "recursos/bibliografia.html#bibliografía-básica-del-curso",
+    "title": "Bibliografía",
+    "section": "Bibliografía básica del curso",
+    "text": "Bibliografía básica del curso\n\nUnidad 1 — Ecosistema del financiamiento de impacto\n\n\n\nReferencia\nTipo\nAcceso\nRelevancia\n\n\n\n\nBugg-Levine, A. & Emerson, J. (2011). Impact Investing: Transforming How We Make Money While Making a Difference (Caps. 1-2). Jossey-Bass\nLibro\n[BIB] Biblioteca EAFIT\nTexto fundacional — introduce los 3 criterios de la inversión de impacto y el espectro riesgo-retorno\n\n\nANDE & LAVCA (2023). Impact Investing in Latin America: Trends 2020-2021\nReporte\n[OA] Repositorio del curso\nUSD 3.4B AUM en LAC; Colombia #2 en la región; 78% sin gestión de riesgo climático\n\n\nFreireich, J. & Fulton, K. (2009). Investing for Social and Environmental Impact. Monitor Institute\nReporte\n[OA] Repositorio del curso\nAcuñó el término “impact investing”; estimó mercado de USD 500B para 2020\n\n\nGIIN (2024). Annual Impact Investor Survey 2024\nReporte\n[OA] thegiin.org\nUSD 1.571B en AUM; mapa global del campo\n\n\nSchlütter, M., Schätzlein, T., Hahn, T. & Waldner, F. (2024). Missing the impact in impact investing research. Business Strategy and the Environment\nArtículo\n[BIB]\nRevisión de 104 artículos: la literatura mide prácticas de medición, no si el impacto ocurre realmente\n\n\n\n\n\nUnidad 2 — Instrumentos de financiamiento social\n\n\n\nReferencia\nTipo\nAcceso\nDatos clave\n\n\n\n\nGustafsson-Wright, E., Gardiner, S. & Putcha, V. (2015). The Potential and Limitations of Impact Bonds. Brookings\nReporte\n[OA] brookings.edu\n38 SIBs analizados; &lt; 5% motivados por retorno; 87% citan apoyo gubernamental; tabla de 10 afirmaciones (p. 47)\n\n\nHevenstone, D., Fraser, A., Hobi, L. & Geuke, G. (2023). The abandonment of impact evaluation in SIB practice. Evaluation, 29(1), 88-109\nArtículo\n[BIB] Sage / DOI: 10.1177/13563890221134285\n5 de 5 SIBs europeos abandonaron evaluación de impacto causal — 3 mecanismos explicativos\n\n\nICMA (2023). Social Bond Principles\nEstándar\n[OA] icmagroup.org\nMarco voluntario para bonos sociales; el pago NO está condicionado al impacto\n\n\nFlammer, C. (2021). Corporate green bonds. Journal of Financial Economics, 142(2), 499-516\nArtículo\n[BIB] DOI: 10.1016/j.jfineco.2021.01.010\nEvidencia causal de señalización positiva de green bonds; CAR positivos y mejora ESG post-emisión\n\n\nLam, P. & Wurgler, J. (2024). Green Bonds: New Label, Same Projects? NBER WP 32960\nWorking paper\n[OA] nber.org\nSolo 2% de proceeds financia proyectos genuinamente nuevos; inversores no discriminan por additionality\n\n\n\n\n\nUnidad 3 — Estructuración e implementación\n\n\n\nReferencia\nTipo\nAcceso\nDatos clave\n\n\n\n\nGustafsson-Wright, E., Boggild-Jones, I., Segell, D. & Durland, J. (2017). Impact Bonds in Developing Countries: Early Learnings from the Field. Brookings & Convergence\nReporte\n[OA] brookings.edu\nÚnico SIB en LMIC al 2017: Colombia. Retorno máximo 8%. Resultado: 117% meta. Capital promedio en LMICs: USD 2M\n\n\nAttridge, S. & Engen, L. (2019). Blended Finance in the Poorest Countries. ODI\nReporte\n[OA] odi.org\nUSD 0.75 de capital privado por USD 1 público; ratio 1:47 en BF recibido por personas pobres (MICs vs. LICs)"
+  },
+  {
+    "objectID": "recursos/bibliografia.html#bibliografía-complementaria",
+    "href": "recursos/bibliografia.html#bibliografía-complementaria",
+    "title": "Bibliografía",
+    "section": "Bibliografía complementaria",
+    "text": "Bibliografía complementaria\n\nPerspectiva crítica y gobernanza\n\n\n\n\n\n\n\nReferencia\nNota\n\n\n\n\nGuter-Sandu, A. (2021). Governing through Social Impact Bonds. New Political Economy, 26(6), 1064-1077. [BIB]\nReconceptualiza los SIBs como experimentos de gobernanza; introduce la “paradoja del éxito” de Peterborough\n\n\nPorter, M. & Kramer, M. (2011). Creating Shared Value. Harvard Business Review, 89(1-2), 62-77\nMarco de Valor Compartido — contexto ideológico del campo\n\n\n\n\n\nBlended finance y ESG\n\n\n\n\n\n\n\nReferencia\nNota\n\n\n\n\nFlammer, C. (2025). The economics of blended finance. [OA — verificar publicación]\nMarco conceptual sobre condiciones de eficiencia del BF y el problema de la adicionalidad\n\n\nVolz, U., Lo, Y.C. & Mishra, S. (2024). Scaling Up Green Investment in the Global South. SOAS. [OA]\n“Billions to trillions se convirtió en millions in, billions out” — el argumento más radical del curso\n\n\nOCDE (2021). Social Impact Bonds: State of the Field. OECD Publishing. [BIB]\nMarco conceptual y regulatorio comparado\n\n\n\n\n\nAmérica Latina y Colombia\n\n\n\n\n\n\n\nReferencia\nNota\n\n\n\n\nBID Lab (2021). Bonos de Impacto Social y al Desarrollo en América Latina y el Caribe: Estado del Campo 2021\nPanorama regional de SIBs/DIBs con casos documentados\n\n\nCEPAL (2023). Bonos verdes, sociales, sostenibles y vinculados a la sostenibilidad en América Latina y el Caribe. [OA — cepal.org]\nDatos de emisiones de bonos ESG en la región\n\n\nInstiglio (2021). SIB Empleando Futuro — Colombia: Impact Report. [instiglio.org]\nDocumentación del único SIB contratado en Colombia al 2021\n\n\nMinisterio de Hacienda Colombia (2017). Marco regulatorio para Bonos de Impacto Social en Colombia (Decreto 092/2017)\nMarco legal vigente"
+  },
+  {
+    "objectID": "recursos/bibliografia.html#bases-de-datos-y-repositorios",
+    "href": "recursos/bibliografia.html#bases-de-datos-y-repositorios",
+    "title": "Bibliografía",
+    "section": "Bases de datos y repositorios",
+    "text": "Bases de datos y repositorios\n\n\n\nRecurso\nURL\nUso principal\n\n\n\n\nGoLab Oxford — Impact Bonds Dataset\ngolab.bsg.ox.ac.uk\nBase de datos de todos los impact bonds contratados en el mundo — el punto de partida para cualquier análisis\n\n\nGIIN Investor Directory\nthegiin.org\nMapa global de inversores de impacto con datos por sector/geografía\n\n\nGIIN IRIS+\niris.thegiin.org\nMétricas estandarizadas de impacto para term sheets\n\n\nConvergence Deal Database\nconvergence.finance\nBase de datos de transacciones de blended finance\n\n\nBrookings Impact Bonds\nbrookings.edu/impact-bonds\nCasos documentados de SIBs/DIBs con análisis de Brookings\n\n\nCEPAL CEPALSTAT\ncepalstat.cepal.org\nDatos socioeconómicos LAC para líneas base\n\n\nDANE Colombia\ndane.gov.co\nMicrodatos y estadísticas para contexto colombiano"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nuevos Instrumentos de Financiación del Sector Social",
+    "section": "",
+    "text": "El sector social enfrenta una paradoja: alta demanda de impacto, escasez de financiamiento sostenible. Esta materia te da las herramientas para resolverla.\n    \n      3Unidades\n      24Horas\n      USD 1.6TAUM global 2024\n      #2Colombia en LAC\n    \n    \n      Ver Syllabus\n      Comenzar Unidad 1"
+  },
+  {
+    "objectID": "index.html#pregunta-central-del-curso",
+    "href": "index.html#pregunta-central-del-curso",
+    "title": "Nuevos Instrumentos de Financiación del Sector Social",
+    "section": "Pregunta central del curso",
+    "text": "Pregunta central del curso\n\n¿Cómo diseñar mecanismos de financiación que movilicen capital hacia problemas sociales complejos, de manera sostenible y medible?\n\nEsta materia es la síntesis operativa del MGIS. Después de aprender a medir el valor social y a gestionar organizaciones de impacto, llega el momento de responder la pregunta clave: ¿quién financia el cambio, y cómo?\nEl curso no asume que los nuevos instrumentos son siempre la respuesta. El mercado global de inversión de impacto alcanzó USD 1.571 billones en AUM en 2024 —pero el 78% de los inversores en América Latina no tiene procesos para gestionar el riesgo climático de sus portafolios (ANDE/LAVCA, 2023), el 98% de los green bonds no financia proyectos genuinamente nuevos (Lam & Wurgler, 2024), y los Bonos de Impacto Social en 5 de 5 casos europeos estudiados no produjeron evaluación de impacto causal (Hevenstone et al., 2023). Aprenderás a usar estas herramientas con rigor."
+  },
+  {
+    "objectID": "index.html#estructura-del-curso",
+    "href": "index.html#estructura-del-curso",
+    "title": "Nuevos Instrumentos de Financiación del Sector Social",
+    "section": "Estructura del curso",
+    "text": "Estructura del curso\n\n\nUnidad 1\nEcosistema del financiamiento de impacto\nEl mercado global de inversión de impacto, sus actores, instrumentos y el espectro riesgo-retorno-impacto.\n→ Ir a Unidad 1\n\n\nUnidad 2\nInstrumentos de financiamiento social\nBonos de Impacto Social (SIB), Bonos de Impacto al Desarrollo (DIB), RBF, bonos verdes/sociales y ESG.\n→ Ir a Unidad 2\n\n\nUnidad 3\nEstructuración e implementación\nDiseña un term sheet de impacto, convierte SROI en lenguaje inversor, y presenta un pitch ante un comité.\n→ Ir a Unidad 3"
+  },
+  {
+    "objectID": "index.html#evaluación",
+    "href": "index.html#evaluación",
+    "title": "Nuevos Instrumentos de Financiación del Sector Social",
+    "section": "Evaluación",
+    "text": "Evaluación\n\n\n\nComponente\nPeso\nTipo\nMomento\n\n\n\n\nAnálisis de elegibilidad\n30%\nIndividual\nPost-Unidad 2\n\n\nTerm sheet de impacto\n40%\nGrupal\nFinal Unidad 3\n\n\nPitch de inversión\n30%\nGrupal\nSesión final"
+  },
+  {
+    "objectID": "index.html#política-de-ia",
+    "href": "index.html#política-de-ia",
+    "title": "Nuevos Instrumentos de Financiación del Sector Social",
+    "section": "Política de IA",
+    "text": "Política de IA\nEl uso de herramientas de inteligencia artificial (Claude, ChatGPT, Gemini) está permitido y fomentado para investigar, sistematizar información y mejorar la escritura. No está permitido para reemplazar el análisis crítico ni para generar los entregables sin participación activa del estudiante. En cada entregable debes declarar qué herramientas usaste y cómo.\n\nEscuela de Finanzas, Economía y Gobierno · Universidad EAFIT · Medellín, Colombia"
+  },
+  {
+    "objectID": "recursos/glosario.html",
+    "href": "recursos/glosario.html",
+    "title": "Glosario",
+    "section": "",
+    "text": "Este glosario recoge los términos esenciales del ecosistema de financiamiento de impacto, organizados alfabéticamente. Los términos marcados con ★ son especialmente relevantes para los entregables del curso.\n\n\nAdicionalidad\n\nPrincipio que exige que el capital movilizado (privado, climático, etc.) no habría fluido hacia ese destino de no haber existido la intervención del instrumento. Es el criterio más difícil de demostrar y más frecuentemente ignorado. Sin adicionalidad real, el blended finance y los bonos verdes son subsidio disfrazado de inversión. Ver: Attridge & Engen (2019); Lam & Wurgler (2024).\n\nBlended Finance (Finanzas Mixtas) ★\n\nUso estratégico de capital de desarrollo concesional (donaciones, garantías, deuda subordinada) para movilizar capital privado adicional hacia proyectos de desarrollo sostenible. El capital concesional actúa como catalizador o “primera pérdida”.\n\nBono de Impacto al Desarrollo (DIB — Development Impact Bond) ★\n\nVariante del SIB donde el pagador de resultados es un donante externo (ej. agencia de cooperación internacional) en lugar del gobierno local. Común en contextos de bajo ingreso donde el gobierno no tiene capacidad de pago.\n\nBono de Impacto Social (SIB — Social Impact Bond) ★\n\nInstrumento de financiamiento basado en resultados donde inversores privados financian la implementación de un programa social, y el gobierno u otro pagador devuelve el capital más un retorno si se alcanzan resultados predefinidos. Si los resultados no se alcanzan, los inversores pierden su inversión.\n\nBono Social\n\nInstrumento de deuda (bono) cuyos fondos se destinan exclusivamente a financiar proyectos con beneficios sociales directos, siguiendo los Social Bond Principles de la ICMA. A diferencia de un SIB, el pago no está condicionado a resultados de impacto.\n\nBono Verde\n\nInstrumento de deuda cuyos fondos financian proyectos con beneficios ambientales verificables, siguiendo los Green Bond Principles de la ICMA.\n\nCapital Paciente (Patient Capital)\n\nCapital de inversión dispuesto a aceptar menores retornos y horizontes de inversión más largos en exchange por impacto social o ambiental medible.\n\nESG (Environmental, Social and Governance)\n\nMarco de criterios no financieros usados para evaluar el desempeño y riesgo de una empresa u organización: criterios ambientales, sociales y de gobernanza. Crecientemente usado por inversores para integrar factores de sostenibilidad en sus decisiones.\n\nEspectro riesgo-retorno-impacto\n\nContinuum que va desde la filantropía pura (máximo impacto, cero retorno financiero) hasta la inversión de mercado (retorno de mercado, impacto variable), pasando por la inversión de impacto concesional y de mercado.\n\nFinanciamiento Basado en Resultados (RBF — Results-Based Financing)\n\nEnfoque donde el financiamiento se desembolsa total o parcialmente en función del logro de resultados verificados, en lugar de solo por insumos o actividades. Los SIBs son una forma de RBF.\n\nGIIN (Global Impact Investing Network)\n\nRed global de organizaciones comprometidas con la inversión de impacto. Creadores de los estándares IRIS+ para métricas de impacto y de investigación anual sobre el estado del mercado.\n\nICMA (International Capital Market Association)\n\nAsociación que establece los Principios para Bonos Verdes, Sociales, Sostenibles y Vinculados a la Sostenibilidad — los estándares voluntarios más utilizados en el mercado de bonos ESG.\n\nIMoIC (Impact Multiple of Invested Capital)\n\nMétrica que expresa cuántos dólares de valor social se generan por cada dólar invertido. Análogo al MOIC (Multiple on Invested Capital) financiero, pero aplicado al impacto social. Permite comunicar el SROI en lenguaje inversor.\n\nIRIS+ (Impact Reporting and Investment Standards)\n\nSistema de métricas estandarizadas de impacto desarrollado por el GIIN. Permite comparar y agregar datos de impacto entre organizaciones e inversores.\n\nInversión de Impacto (Impact Investing)\n\nInversiones realizadas con la intención de generar un impacto social y/o ambiental positivo y medible, junto con un retorno financiero. Requiere intencionalidad, adicionalidad y medición de impacto.\n\nPagador (Outcome Payer)\n\nEn un SIB o instrumento RBF, es el actor que realiza el pago cuando se alcanzan los resultados acordados. Generalmente el gobierno, una fundación o un organismo multilateral.\n\nPay-for-Success\n\nTérmino utilizado principalmente en Estados Unidos para referirse a modelos donde el gobierno paga a proveedores de servicios sociales en función de los resultados obtenidos, no de los servicios prestados.\n\nSROI (Social Return on Investment)\n\nMetodología para medir y comunicar el valor social generado por una intervención, expresado como una ratio (ej. “por cada $1 invertido se generan $3.74 de valor social”). Desarrollado por Social Value International.\n\nTerm Sheet de Impacto\n\nDocumento que resume los términos principales de un instrumento de financiación de impacto: actores, resultados esperados, métricas, estructura de pago, mecanismo de verificación y gestión de riesgos. Equivalente al term sheet de una transacción financiera.\n\nValidador Independiente ★\n\nOrganización o experto que verifica de forma independiente el logro de los resultados en un instrumento basado en resultados. Rol crítico para la credibilidad del instrumento. Debe ser completamente independiente de todos los actores del contrato — incluyendo el proveedor, el inversor y el pagador. En Colombia, los candidatos naturales son universidades con unidades de medición (CEDE/U. Andes, CIEF/EAFIT, U. Nacional) y consultoras especializadas (Econometría Consultores, Fedesarrollo). Ver: Hevenstone et al. (2023) para los riesgos de captura del validador.\n\nGoLab Oxford (Government Outcomes Lab)\n\nCentro de investigación de la Universidad de Oxford que mantiene la base de datos más completa de impact bonds contratados en el mundo. URL: golab.bsg.ox.ac.uk. Recurso de referencia para cualquier análisis de SIBs/DIBs.\n\nGreenwashing (Lavado verde)\n\nPráctica de presentar instrumentos, productos o inversiones como ambientalmente responsables sin que ello se traduzca en impacto ambiental adicional real. En el contexto del curso: el debate sobre si los bonos verdes producen adicionalidad real o solo señalización de mercado. Ver: Lam & Wurgler (2024) — el 98% de proceeds no financia proyectos genuinamente nuevos.\n\nParadoja del éxito (en SIBs)\n\nSituación donde el éxito de programas públicos relacionados hace innecesario el SIB y lleva a su cierre anticipado, eliminando la posibilidad de evaluación de impacto. Documentado en el caso Peterborough Prison SIB (UK): cerrado cuando el programa nacional Transforming Rehabilitation tuvo éxito. Ver: Guter-Sandu (2021).\n\nContrato de Impacto Social (Colombia)\n\nNombre legal que reciben los SIBs en Colombia, regulados por el Decreto 092 de 2017 del Ministerio de Hacienda. Marco que habilita al gobierno colombiano a firmar contratos donde el pago está condicionado a resultados verificados por un tercero independiente."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Campo\nInformación\n\n\n\n\nEscuela\nFinanzas, Economía y Gobierno\n\n\nPrograma\nMaestría en Gerencia e Innovación Social (MGIS)\n\n\nNombre del curso\nNuevos instrumentos de financiación del sector social\n\n\nNombre en inglés\nNew Financing Instruments for the Social Sector\n\n\nSemestre\nIII (tercer semestre de tres)\n\n\nCréditos\n2 créditos\n\n\nIntensidad horaria\n4 horas/sesión · 6 sesiones · 24 horas totales\n\n\nCaracterística\nNo suficientable\n\n\nPrerrequisito\nNinguno (recomendado: Evaluación de Impacto, Semestre II)\n\n\nProfesor\nJuan Carlos Muñoz Mora\n\n\nCorreo\njcmunoz@eafit.edu.co"
+  },
+  {
+    "objectID": "syllabus.html#identificación-del-curso",
+    "href": "syllabus.html#identificación-del-curso",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Campo\nInformación\n\n\n\n\nEscuela\nFinanzas, Economía y Gobierno\n\n\nPrograma\nMaestría en Gerencia e Innovación Social (MGIS)\n\n\nNombre del curso\nNuevos instrumentos de financiación del sector social\n\n\nNombre en inglés\nNew Financing Instruments for the Social Sector\n\n\nSemestre\nIII (tercer semestre de tres)\n\n\nCréditos\n2 créditos\n\n\nIntensidad horaria\n4 horas/sesión · 6 sesiones · 24 horas totales\n\n\nCaracterística\nNo suficientable\n\n\nPrerrequisito\nNinguno (recomendado: Evaluación de Impacto, Semestre II)\n\n\nProfesor\nJuan Carlos Muñoz Mora\n\n\nCorreo\njcmunoz@eafit.edu.co"
+  },
+  {
+    "objectID": "syllabus.html#justificación",
+    "href": "syllabus.html#justificación",
+    "title": "Syllabus",
+    "section": "Justificación",
+    "text": "Justificación\nEl sector social enfrenta una paradoja estructural: la demanda de impacto social crece de forma acelerada, mientras que los modelos de financiamiento tradicionales —subvenciones, donaciones, cooperación internacional— resultan insuficientes para la escala de los problemas. Esta brecha no es solo financiera: es de conocimiento, diseño y lenguaje. Los gerentes sociales del siglo XXI necesitan saber navegar y estructurar soluciones en los nuevos mercados de capital con propósito.\nEl mercado de inversión de impacto alcanzó USD 1.571 billones en activos bajo gestión en 2024 (GIIN, 2024). América Latina concentra 37 inversores activos solo en Colombia — segundo mercado de la región después de Brasil —, con USD 3.4 billones en AUM en la muestra de 92 inversores del informe ANDE/LAVCA 2023. Sin embargo, el campo es también complejo y debatido: el 78% de los inversores no tiene procesos para gestionar riesgo climático en sus portafolios, y la literatura académica documenta que los Bonos de Impacto Social — el instrumento emblema del campo — frecuentemente producen monitoreo de gestión pero no evaluación rigurosa del impacto causal (Hevenstone et al., 2023).\nEsta materia ocupa un lugar estratégico en el tercer semestre del MGIS porque cierra el ciclo formativo del programa: los estudiantes ya saben medir el valor social (Evaluación de Impacto, Semestre II), ya comprenden la gestión estratégica de organizaciones sociales, y ahora aprenden a convertir ese conocimiento en instrumentos financieros concretos — bonos de impacto social, finanzas mixtas, financiamiento basado en resultados y capital ESG.\nEl curso es deliberadamente crítico con los instrumentos que presenta: no se trata de aprender a “vender” financiamiento de impacto, sino de entender cuándo funciona y cuándo no, con base en la mejor evidencia disponible."
+  },
+  {
+    "objectID": "syllabus.html#perfil-del-estudiante",
+    "href": "syllabus.html#perfil-del-estudiante",
+    "title": "Syllabus",
+    "section": "Perfil del estudiante",
+    "text": "Perfil del estudiante\nEl curso está diseñado para profesionales activos en el sector social, emprendedores sociales y gestores públicos que cursan el tercer semestre del MGIS. Al llegar a este curso, los estudiantes:\n\nTienen bases de evaluación de impacto (metodologías cuasi-experimentales, SROI, teoría del cambio)\nHan trabajado análisis estratégico de organizaciones sociales\nTienen experiencia directa en programas sociales, ONG, gobierno o empresas con propósito\nNo necesariamente tienen formación financiera — el curso no asume conocimientos de finanzas corporativas"
+  },
+  {
+    "objectID": "syllabus.html#competencias-y-resultados-de-aprendizaje",
+    "href": "syllabus.html#competencias-y-resultados-de-aprendizaje",
+    "title": "Syllabus",
+    "section": "Competencias y resultados de aprendizaje",
+    "text": "Competencias y resultados de aprendizaje\nCompetencia del programa: Crea soluciones innovadoras a problemáticas sociales a partir de las lecciones prácticas de la gerencia, la gobernanza y el emprendimiento social.\nResultados de aprendizaje del curso:\nAl finalizar el curso, el estudiante será capaz de:\n\n\n\n\n\n\n\n\n#\nResultado\nNivel Bloom\n\n\n\n\n1\nCaracterizar el ecosistema global y colombiano de inversión de impacto, identificando actores clave, instrumentos disponibles y marcos regulatorios\nComprender\n\n\n2\nAnalizar la viabilidad de programas sociales para financiamiento mediante instrumentos basados en resultados, usando el checklist de 10 criterios de elegibilidad\nAnalizar\n\n\n3\nEvaluar las fortalezas y limitaciones de SIBs, DIBs, RBF, bonos sociales y blended finance a la luz de la evidencia empírica, incluyendo casos de fracaso\nEvaluar\n\n\n4\nDiseñar un term sheet básico de impacto que articule métricas de resultado verificables, estructura de pago y gestión del riesgo\nCrear\n\n\n5\nComunicar una propuesta de inversión de impacto ante audiencias financieras, convirtiendo evidencia de valor social (SROI/IMoIC) en lenguaje de inversores\nCrear"
+  },
+  {
+    "objectID": "syllabus.html#contenidos-y-cronograma",
+    "href": "syllabus.html#contenidos-y-cronograma",
+    "title": "Syllabus",
+    "section": "Contenidos y cronograma",
+    "text": "Contenidos y cronograma\n\nUnidad 1 — Ecosistema del financiamiento de impacto (8 horas · Sesiones 1-2)\nPregunta guía: ¿Por qué el modelo de subvenciones es insuficiente y qué alternativas han emergido?\n\nTemas\n\nFallas de mercado en el sector social: ¿por qué el capital privado no fluye espontáneamente hacia el impacto social?\nEvolución histórica del campo: de la filantropía estratégica (años 2000) a la inversión de impacto (2009-presente)\nEl espectro riesgo-retorno-impacto: del subsidio puro a la inversión de mercado\nActores del ecosistema: inversores de impacto, intermediarios, pagadores de resultados, validadores, beneficiarios\nMarcos de referencia globales: GIIN, Principles for Responsible Investment, Blended Finance Taskforce\nEl ecosistema colombiano: Bancolombia Impact, Compartamos con Colombia, FDN, Ministerio de Hacienda\nEstado del campo: USD 1.571 billones en AUM global (GIIN 2024); USD 3.4 billones en LAC (ANDE/LAVCA 2023)\nPerspectiva crítica: ¿se está “financializando” el campo? El 61% de los inversores busca retornos de mercado (vs. 46% en el reporte anterior)\n\n\n\nActividades\n\n\n\n\n\n\n\n\nSesión\nActividad principal\nTipo\n\n\n\n\n1\nMapeo del ecosistema colombiano de inversión de impacto\nGrupal — investigación y presentación\n\n\n2\nDebate: ¿El mercado de capitales puede ser árbitro de qué solidaridades sociales son deseables?\nPlenaria estructurada\n\n\n\n\n\n\n\nUnidad 2 — Instrumentos de financiamiento social (8 horas · Sesiones 3-4)\nPregunta guía: ¿Qué instrumentos existen, cómo funcionan técnicamente, y cuándo es apropiado usar cada uno?\n\nTemas\nSesión 3 — Bonos de impacto y RBF:\n\nAnatomía de un Bono de Impacto Social (SIB): los 5 actores, el mecanismo de pago condicional, el flujo de riesgo\nCaso ancla: SIB Empleando Futuro (Cali, Colombia, 2017): primer —y durante años único— SIB en un país en desarrollo. Resultado: 117% de la meta. Inversor: Fundación Corona. Retorno máximo: 8% anual. Intermediario: Instiglio.\nCaso internacional: SIB Peterborough Prison (UK, 2010): el primer SIB del mundo y la paradoja de su cierre anticipado\nBonos de Impacto al Desarrollo (DIB): cuando el pagador es un donor externo\nFinanciamiento Basado en Resultados (RBF) y Pay-for-Success: el modelo desde el gobierno/donante\nPerspectiva crítica: los SIBs generan monitoreo de gestión, pero en 5 de 5 casos europeos estudiados no generaron evaluación de impacto causal (Hevenstone et al., 2023)\n\nSesión 4 — ESG, bonos sociales y elegibilidad:\n\nTaxonomía ICMA: Green Bond Principles, Social Bond Principles, Sustainability Bond Guidelines\nLa diferencia crítica: en un bono social ICMA, el pago NO está condicionado al impacto social\nESG como puerta de entrada al capital privado: presión regulatoria, riesgo reputacional, apetito institucional\nEl debate greenwashing: el 98% de los proceeds de green bonds no financia proyectos genuinamente nuevos (Lam & Wurgler, 2024)\nEl checklist de elegibilidad de 10 criterios: ¿cuándo un programa social es candidato a financiamiento basado en resultados?\n\n\n\nChecklist de elegibilidad (10 criterios)\n\n\n\n\n\n\n\n\n#\nCriterio\nEl “dealbreaker” más frecuente\n\n\n\n\n1\nProblema social definido y cuantificado\n—\n\n\n2\nPoblación objetivo identificada y contactable\n—\n\n\n3\nResultados observables y verificables por terceros\n—\n\n\n4\nLínea base disponible\n⚠️ En la mayoría de programas colombianos, los datos históricos no existen o son de baja calidad\n\n\n5\nIntervención con evidencia de efectividad\n—\n\n\n6\nPagador comprometido (gobierno, fundación, multilateral)\n—\n\n\n7\nResultados en horizonte de 2-5 años\n—\n\n\n8\nEscala suficiente para justificar costos de estructuración\n⚠️ Con capital &lt; USD 300K, el costo de transacción del 5-15% puede ser prohibitivo\n\n\n9\nMarco legal existente en la jurisdicción\n—\n\n\n10\nCapacidad de implementación demostrada\n—\n\n\n\n\n\nActividades\n\n\n\n\n\n\n\n\nSesión\nActividad principal\nTipo\n\n\n\n\n3\nDisección del SIB Empleando Futuro — diagrama de flujo y análisis de roles\nGrupal\n\n\n4\nAplicación del checklist de elegibilidad al caso final del equipo\nEquipos + plenaria\n\n\n\n\n\n\n\nUnidad 3 — Estructuración e implementación (8 horas · Sesiones 5-6)\nPregunta guía: ¿Cómo se estructura técnicamente un instrumento de impacto, se negocia con los actores y se comunica a inversores?\n\nTemas\nSesión 5 — Estructuración técnica:\n\nAnatomía de un term sheet de impacto: los 7 componentes mínimos y su lógica\nLa métrica que lo decide todo: SMART + verificable por terceros + sin control del proveedor sobre los datos\nEl validador independiente: quién puede serlo en Colombia (CEDE/U. Andes, CIEF/EAFIT, U. Nacional, Econometría Consultores)\nMarco legal colombiano: Decreto 092 de 2017 (Contratos de Impacto Social), Ley 1753 de 2015\nSROI → IMoIC: traducir valor social a lenguaje inversor (fórmula: IMoIC = ratio SROI × capital invertido)\nRiesgos y fracasos: taxonomía de por qué fallan los SIBs (diseño, implementación, medición, política)\nEl blended finance en perspectiva: cada USD 1 público moviliza USD 0.75 de capital privado en promedio —no los “5 a 1” que se citan habitualmente (Attridge & Engen, 2019)\n\nSesión 6 — Pitch y cierre:\n\nLa estructura de 6 partes del pitch de inversión de impacto (8 minutos)\nLas 4 preguntas difíciles del jurado y cómo responderlas honestamente\nPresentaciones finales ante jurado simulado\nCierre del curso: balance del campo, oportunidades en Colombia, próximos pasos\n\n\n\nActividades\n\n\n\n\n\n\n\n\nSesión\nActividad principal\nTipo\n\n\n\n\n5\nTerm sheet en vivo — completar template con caso de calibración\nPlenaria + equipos\n\n\n6\nPitch ante jurado simulado (8 min presentación + 7 min preguntas)\nGrupal — evaluación"
+  },
+  {
+    "objectID": "syllabus.html#evaluación",
+    "href": "syllabus.html#evaluación",
+    "title": "Syllabus",
+    "section": "Evaluación",
+    "text": "Evaluación\n\n\n\n\n\n\n\n\n\nComponente\nPeso\nTipo\nEntrega\n\n\n\n\nAnálisis de elegibilidad\n30%\nIndividual\n48h después de última sesión Unidad 2\n\n\nTerm sheet de impacto\n40%\nGrupal (3-4 personas)\n7 días después de última sesión\n\n\nPitch de inversión\n30%\nGrupal\nSesión 6 (en clase)\n\n\n\n\nAnálisis de elegibilidad (30% — individual)\nSelecciona un programa social real en Colombia o América Latina y aplica el checklist de 10 criterios para determinar si es candidato a financiamiento basado en resultados.\nEntregables: (1) Descripción del programa con datos, (2) Aplicación del checklist criterio por criterio con evidencia, (3) Veredicto de elegibilidad y justificación, (4) Instrumento recomendado con razón, (5) Brechas a resolver y hoja de ruta. Extensión: 4-6 páginas.\n\n\n\nCriterio\nPeso\n\n\n\n\nRigor en la aplicación del checklist (evidencia por criterio)\n40%\n\n\nCalidad del veredicto y consistencia con la evidencia\n25%\n\n\nPertinencia del instrumento recomendado\n20%\n\n\nIdentificación de brechas y hoja de ruta realista\n15%\n\n\n\n\n\nTerm sheet de impacto (40% — grupal)\nEstructura técnica completa del instrumento de financiación seleccionado para un caso real, siguiendo la plantilla del curso.\nEntregables: (1) Term sheet completo (8-12 páginas), (2) Resumen ejecutivo de 1 página para comité inversor, (3) Declaración de uso de IA (si aplica).\n\n\n\nCriterio\nPeso\n\n\n\n\nClaridad del problema e intervención (con datos)\n20%\n\n\nSolidez de la métrica de resultado (SMART + línea base)\n25%\n\n\nEstructura de pago realista y coherente\n20%\n\n\nGestión del riesgo (identificación + mitigación)\n15%\n\n\nMarco de evaluación independiente\n20%\n\n\n\n\n\nPitch de inversión (30% — grupal)\nPresentación de 8 minutos ante jurado simulado + 7 minutos de preguntas.\n\n\n\nCriterio\nPeso\n\n\n\n\nClaridad del problema y la solución\n25%\n\n\nSolidez técnica del instrumento propuesto\n30%\n\n\nCalidad de la evidencia presentada\n20%\n\n\nPersuasión y manejo de preguntas difíciles\n25%\n\n\n\n\n\n\n\n\n\nNota\n\n\n\nHitos de avance sin nota (con retroalimentación): - Fin Unidad 1: Ficha de actor (1 página) — problema, organización, posible pagador - Fin Unidad 2: Elegibilidad del caso (parte del análisis individual)"
+  },
+  {
+    "objectID": "syllabus.html#estrategias-metodológicas",
+    "href": "syllabus.html#estrategias-metodológicas",
+    "title": "Syllabus",
+    "section": "Estrategias metodológicas",
+    "text": "Estrategias metodológicas\nEl curso adopta un enfoque de aprendizaje activo basado en problemas (ABP) con estructura de aula invertida:\n\nPre-clase: Lecturas obligatorias con guías de lectura estructuradas (enviadas 48h antes). Las guías incluyen preguntas de activación, puntos de atención específicos y preguntas post-lectura (200-300 palabras).\nEn clase: 20% síntesis conceptual + 70% trabajo activo (análisis de casos, aplicación de herramientas, simulaciones, debates) + 10% cierre y puente hacia la siguiente sesión.\nPost-clase: Entregables de aplicación que construyen progresivamente hacia el proyecto final grupal.\n\nEstructura de cada sesión (arco de 3 actos):\n\nActivar (15-20 min): Pregunta provocadora o mini-caso para activar conocimiento previo y crear urgencia por el tema\nConstruir (2.5h): Trabajo activo con el contenido — análisis de casos reales, aplicación de herramientas, trabajo en equipos\nConsolidar (15-20 min): Síntesis colectiva, conexión con el trabajo final, puente hacia la siguiente sesión\n\nUso de inteligencia artificial: El curso promueve el uso de herramientas de IA (Claude, ChatGPT, Perplexity) como apoyo al análisis y la escritura. Los estudiantes deben declarar el uso de IA en los entregables y son responsables de verificar toda información generada por IA con fuentes primarias."
+  },
+  {
+    "objectID": "syllabus.html#medios-educativos",
+    "href": "syllabus.html#medios-educativos",
+    "title": "Syllabus",
+    "section": "Medios educativos",
+    "text": "Medios educativos\n\n\n\n\n\n\n\n\nTipo\nHerramienta\nUso\n\n\n\n\nSitio web del curso\nQuarto + GitHub Pages\nLecturas, guías, materiales, plantillas\n\n\nLMS institucional\nEAFIT Interactiva (Moodle)\nEntrega de trabajos, notas, comunicación formal\n\n\nComunicación\nMicrosoft Teams\nSesiones síncronas, preguntas entre sesiones\n\n\nIA generativa\nClaude / ChatGPT\nApoyo al análisis y escritura (uso declarado)\n\n\nBases de datos\nGoLab Oxford, GIIN, Brookings\nConsulta de casos y datos del campo"
+  },
+  {
+    "objectID": "syllabus.html#bibliografía-básica",
+    "href": "syllabus.html#bibliografía-básica",
+    "title": "Syllabus",
+    "section": "Bibliografía básica",
+    "text": "Bibliografía básica\nLas lecturas están organizadas por unidad en el sitio del curso. Los PDFs disponibles en Open Access están indicados; los demás están disponibles en la biblioteca EAFIT o en el repositorio del curso.\n\nUnidad 1 — Ecosistema\n\nBugg-Levine, A. & Emerson, J. (2011). Impact Investing: Transforming How We Make Money While Making a Difference (Caps. 1-2). Jossey-Bass.\nANDE & LAVCA (2023). Impact Investing in Latin America: Trends 2020-2021.\nFreireich, J. & Fulton, K. (2009). Investing for Social and Environmental Impact. Monitor Institute. [Open Access]\nSchlütter, M., Schätzlein, T., Hahn, T. & Waldner, F. (2024). Missing the impact in impact investing research. Business Strategy and the Environment.\nGIIN (2024). Annual Impact Investor Survey 2024. [Open Access — giin.org]\n\n\n\nUnidad 2 — Instrumentos\n\nGustafsson-Wright, E., Gardiner, S. & Putcha, V. (2015). The Potential and Limitations of Impact Bonds: Lessons from the First Five Years of Experience Worldwide. Brookings Institution. [Open Access]\nHevenstone, D., Fraser, A., Hobi, L. & Geuke, G. (2023). The abandonment of impact evaluation in social impact bond practice. Evaluation, 29(1), 88-109. https://doi.org/10.1177/13563890221134285\nICMA (2023). Social Bond Principles: Voluntary Process Guidelines for Issuing Social Bonds. [Open Access — icmagroup.org]\nFlammer, C. (2021). Corporate green bonds. Journal of Financial Economics, 142(2), 499-516. https://doi.org/10.1016/j.jfineco.2021.01.010\nLam, P. & Wurgler, J. (2024). Green Bonds: New Label, Same Projects? NBER Working Paper No. 32960. [Open Access — nber.org]\n\n\n\nUnidad 3 — Estructuración\n\nGustafsson-Wright, E., Boggild-Jones, I., Segell, D. & Durland, J. (2017). Impact Bonds in Developing Countries: Early Learnings from the Field. Brookings Institution & Convergence. [Open Access]\nAttridge, S. & Engen, L. (2019). Blended Finance in the Poorest Countries: The Need for a Better Approach. Overseas Development Institute. [Open Access — odi.org]"
+  },
+  {
+    "objectID": "syllabus.html#bibliografía-complementaria",
+    "href": "syllabus.html#bibliografía-complementaria",
+    "title": "Syllabus",
+    "section": "Bibliografía complementaria",
+    "text": "Bibliografía complementaria\n\nGuter-Sandu, A. (2021). Governing through Social Impact Bonds. New Political Economy, 26(6), 1064-1077.\nFlammer, C. (2025). The economics of blended finance. [Working paper — verificar publicación].\nVolz, U., Lo, Y.C. & Mishra, S. (2024). Scaling Up Green Investment in the Global South. SOAS University of London. [Open Access]\nPorter, M. & Kramer, M. (2011). Creating Shared Value. Harvard Business Review, 89(1-2), 62-77.\nOCDE (2021). Social Impact Bonds: State of the Field. OECD Publishing.\nConvergence Finance (2023). The State of Blended Finance 2023. [convergence.finance]\nBID Lab (2021). Bonos de Impacto Social y al Desarrollo en América Latina y el Caribe: Estado del Campo 2021.\nInstiglio (2021). SIB Empleando Futuro — Colombia: Impact Report. [instiglio.org]\nCEPAL (2023). Bonos verdes, sociales, sostenibles y vinculados a la sostenibilidad en América Latina y el Caribe. [Open Access — cepal.org]"
+  },
+  {
+    "objectID": "syllabus.html#recursos-adicionales",
+    "href": "syllabus.html#recursos-adicionales",
+    "title": "Syllabus",
+    "section": "Recursos adicionales",
+    "text": "Recursos adicionales\nBases de datos y repositorios:\n\nGoLab Oxford — golab.bsg.ox.ac.uk: base de datos de todos los impact bonds contratados en el mundo\nGIIN — thegiin.org: reportes anuales de inversión de impacto y base de inversores\nConvergence Finance — convergence.finance: datos de blended finance\nBrookings Impact Bonds — brookings.edu/impact-bonds: casos y publicaciones\n\nMarco legal colombiano:\n\nDecreto 092 de 2017 (Ministerio de Hacienda): Contratos de Impacto Social en Colombia\nLey 1753 de 2015 (Plan Nacional de Desarrollo): habilitó los pagos por resultados\nMinisterio de Hacienda (2017): Marco regulatorio para Bonos de Impacto Social en Colombia"
+  },
+  {
+    "objectID": "unidades/unidad-02.html",
+    "href": "unidades/unidad-02.html",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "",
+    "text": "¿Qué instrumentos existen para financiar el impacto social, cómo funcionan estructuralmente, y cuándo es apropiado usar cada uno?"
+  },
+  {
+    "objectID": "unidades/unidad-02.html#pregunta-guía",
+    "href": "unidades/unidad-02.html#pregunta-guía",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "",
+    "text": "¿Qué instrumentos existen para financiar el impacto social, cómo funcionan estructuralmente, y cuándo es apropiado usar cada uno?"
+  },
+  {
+    "objectID": "unidades/unidad-02.html#objetivos-de-aprendizaje",
+    "href": "unidades/unidad-02.html#objetivos-de-aprendizaje",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "Objetivos de aprendizaje",
+    "text": "Objetivos de aprendizaje\nAl finalizar esta unidad, el estudiante será capaz de:\n\nDescribir la estructura técnica de un Bono de Impacto Social (SIB) y un Bono de Impacto al Desarrollo (DIB) (Comprender)\nComparar los modelos SIB, RBF y bonos sociales según su mecanismo de pago, distribución de riesgo y actores (Analizar)\nAplicar el checklist de 10 criterios de elegibilidad para determinar si un programa social es candidato a financiamiento basado en resultados (Aplicar)\nEvaluar la pertinencia de instrumentos ESG para proyectos sociales en contextos de mercados emergentes (Evaluar)"
+  },
+  {
+    "objectID": "unidades/unidad-02.html#datos-que-cuestionan-el-discurso-estándar",
+    "href": "unidades/unidad-02.html#datos-que-cuestionan-el-discurso-estándar",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "Datos que cuestionan el discurso estándar",
+    "text": "Datos que cuestionan el discurso estándar\n\n\n\n\n\n\nImportante\n\n\n\nAntes de entrar a los instrumentos, estos datos del campo:\n\n&lt; 5% de inversores en SIBs indica el retorno financiero como motivación primaria — la mayoría entra por innovación o misión (Gustafsson-Wright et al., 2015, p. 41)\n87% de actores en SIBs señala el apoyo gubernamental como “muy importante” — aunque el discurso oficial los presenta como instrumentos para reducir el riesgo del gobierno (ibíd., p. 43)\n5 de 5 SIBs europeos estudiados abandonaron la evaluación de impacto causal — produjeron monitoreo de gestión, no evidencia de que el programa funcionó (Hevenstone et al., 2023)\n98% de los proceeds de green bonds no financia proyectos con características genuinamente nuevas — el resto refinancia deuda ordinaria o expande proyectos ya existentes (Lam & Wurgler, 2024)"
+  },
+  {
+    "objectID": "unidades/unidad-02.html#pre-trabajo-antes-de-la-sesión-3",
+    "href": "unidades/unidad-02.html#pre-trabajo-antes-de-la-sesión-3",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "Pre-trabajo (antes de la sesión 3)",
+    "text": "Pre-trabajo (antes de la sesión 3)\nLecturas obligatorias:\n\nGustafsson-Wright, Gardiner & Putcha (2015). The Potential and Limitations of Impact Bonds. Brookings — Secciones 1-3 + Tabla de 10 afirmaciones (p. 47). Tiempo estimado: 50 min\nHevenstone, Fraser, Hobi & Geuke (2023). The Abandonment of Impact Evaluation in Social Impact Bond Practice. Evaluation, 29(1). Leer: intro + conclusiones + tabla de 5 casos. Tiempo estimado: 30 min\nICMA (2023). Social Bond Principles. Solo el documento de principios (no apéndices). Tiempo estimado: 20 min\n\nTarea preparatoria — Ficha del SIB Empleando Futuro:\nAntes de la Sesión 3, prepara una ficha de 1 página sobre el SIB Empleando Futuro (Cali, Colombia, 2017):\n\nProblema social abordado y población objetivo exacta\nLos 5 actores y sus roles específicos (proveedor, inversor, pagador, intermediario, validador)\nLa métrica de resultado exacta y el umbral de pago\n¿Se alcanzó la meta? ¿Cuánto se pagó? (dato: 117% de la meta)\n¿Por qué Colombia fue pionera? ¿Qué condiciones habilitantes existían?\nUna pregunta que el caso no responde\n\nFuentes: GoLab Oxford (golab.bsg.ox.ac.uk), Instiglio (instiglio.org), Brookings."
+  },
+  {
+    "objectID": "unidades/unidad-02.html#agenda-de-sesiones",
+    "href": "unidades/unidad-02.html#agenda-de-sesiones",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "Agenda de sesiones",
+    "text": "Agenda de sesiones\n\nSesión 3 (4 horas): SIBs, DIBs y RBF\n\n\n\n\n\n\n\nTiempo\nActividad\n\n\n\n\n0:00–0:15\nRevisión ficha preparatoria SIB Empleando Futuro — diagrama en plenaria\n\n\n0:15–0:55\nMini-clase: Anatomía de un SIB — 5 actores, flujo de dinero, flujo de riesgo\n\n\n0:55–1:35\nActividad: Disección del SIB Empleando Futuro — ¿quién asume cada riesgo?\n\n\n1:35–1:45\nDescanso\n\n\n1:45–2:15\nDIBs: cuando el pagador es un donor externo — diferencias con SIB\n\n\n2:15–2:50\nRBF y Pay-for-Success: el modelo desde el gobierno/donante\n\n\n2:50–3:00\nSíntesis: tabla comparativa SIB vs. DIB vs. RBF vs. Bono Social\n\n\n\n\n\nSesión 4 (4 horas): ESG, bonos sociales y elegibilidad\n\n\n\n\n\n\n\nTiempo\nActividad\n\n\n\n\n0:00–0:20\nMini-clase: Taxonomía ICMA — bonos verdes, sociales y sostenibles\n\n\n0:20–0:45\nLa diferencia crítica: en un bono social ICMA el pago no está condicionado al impacto\n\n\n0:45–1:30\nEl debate greenwashing: Flammer (2021) vs. Lam & Wurgler (2024)\n\n\n1:30–1:40\nDescanso\n\n\n1:40–2:30\nTaller: Aplicación del checklist de elegibilidad al caso del equipo\n\n\n2:30–2:50\nPlenaria: veredictos de elegibilidad + brechas comunes\n\n\n2:50–3:00\nIntroducción al análisis individual evaluable + instrucciones"
+  },
+  {
+    "objectID": "unidades/unidad-02.html#el-checklist-de-elegibilidad-10-criterios",
+    "href": "unidades/unidad-02.html#el-checklist-de-elegibilidad-10-criterios",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "El checklist de elegibilidad (10 criterios)",
+    "text": "El checklist de elegibilidad (10 criterios)\nPara determinar si un programa social es candidato a financiamiento basado en resultados:\n\n\n\n\n\n\n\n\n\n#\nCriterio\nDescripción\nAlerta\n\n\n\n\n1\nProblema definido\nEl problema está delimitado y cuantificado con datos\n\n\n\n2\nPoblación objetivo\nLa población beneficiaria está identificada y es contactable\n\n\n\n3\nResultados medibles\nLos resultados son observables y verificables por terceros\n\n\n\n4\nLínea base disponible\nExisten datos históricos para establecer línea base\n⚠️ Dealbreaker más frecuente en Colombia\n\n\n5\nIntervención probada\nHay evidencia de que la intervención funciona\n\n\n\n6\nPagador comprometido\nExiste un pagador potencial dispuesto a pagar por resultados\n\n\n\n7\nHorizonte temporal\nLos resultados se materializan en 2-5 años\n\n\n\n8\nEscala mínima\nEl programa tiene escala suficiente para justificar costos\n⚠️ Con &lt; USD 300K los costos de transacción son prohibitivos\n\n\n9\nMarco legal\nEl instrumento es legal en la jurisdicción relevante\n\n\n\n10\nCapacidad de implementación\nEl proveedor tiene capacidad operativa demostrada\n\n\n\n\nCriterio de instrumento:\n\nSi hay pagador gubernamental + capacidad de medición → SIB Si el pagador es un donor externo → DIB Si el pagador tiene presupuesto propio, sin intermediario financiero → RBF Si es emisor del mercado de capitales con flujos definidos → Bono Social/Verde"
+  },
+  {
+    "objectID": "unidades/unidad-02.html#actividad-evaluable-análisis-de-elegibilidad-30",
+    "href": "unidades/unidad-02.html#actividad-evaluable-análisis-de-elegibilidad-30",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "Actividad evaluable: Análisis de elegibilidad (30%)",
+    "text": "Actividad evaluable: Análisis de elegibilidad (30%)\nInstrucciones:\nSelecciona un programa social real en Colombia o América Latina — puede ser de tu organización, de una entidad pública, o un caso documentado. Aplica el checklist de 10 criterios y presenta:\n\nDescripción del programa (problema, población, intervención) — con datos\nAplicación del checklist criterio por criterio — con evidencia específica\nVeredicto de elegibilidad y justificación\nInstrumento recomendado y razón\nBrechas a resolver y hoja de ruta\n\nFormato: 4-6 páginas · Individual · Entrega: 48h después de la última sesión de esta unidad\n\n\n\nCriterio\nPeso\n\n\n\n\nRigor en la aplicación del checklist (evidencia por criterio)\n40%\n\n\nCalidad del veredicto — consistente con la evidencia\n25%\n\n\nPertinencia del instrumento recomendado\n20%\n\n\nIdentificación de brechas y hoja de ruta realista\n15%"
+  },
+  {
+    "objectID": "unidades/unidad-02.html#lecturas",
+    "href": "unidades/unidad-02.html#lecturas",
+    "title": "Unidad 2 — Instrumentos de Financiamiento Social",
+    "section": "Lecturas",
+    "text": "Lecturas\n\nObligatorias\n\n\n\nTexto\nAcceso\n\n\n\n\nGustafsson-Wright, E., Gardiner, S. & Putcha, V. (2015). The Potential and Limitations of Impact Bonds. Brookings\nbrookings.edu — libre\n\n\nHevenstone, D., Fraser, A., Hobi, L. & Geuke, G. (2023). The abandonment of impact evaluation in SIB practice. Evaluation, 29(1)\nBiblioteca EAFIT / Sage\n\n\nICMA (2023). Social Bond Principles\nicmagroup.org — libre\n\n\n\n\n\nComplementarias\n\n\n\nTexto\nNota\n\n\n\n\nGuter-Sandu, A. (2021). Governing through Social Impact Bonds. New Political Economy, 26(6)\nPara quienes quieren la perspectiva de economía política\n\n\nFlammer, C. (2021). Corporate green bonds. Journal of Financial Economics, 142(2)\nEvidencia causal sobre señalización de green bonds\n\n\nLam, P. & Wurgler, J. (2024). Green Bonds: New Label, Same Projects? NBER WP 32960\nContraargumento sobre additionality — nber.org libre"
+  }
+]
